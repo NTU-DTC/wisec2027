@@ -46,7 +46,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session1">
         <td class="time" style="vertical-align: middle">11:00</td>
         <td class="section-head"><b>Session 1:</b> Securing Wireless Infrastructure: From Satellite to Ground Segment</td>
-        <td class="time">TBD</td>
+        <td class="time">Dave Singelee</td>
         <td></td>
     </tr>
 <tr class="section-row">
@@ -91,7 +91,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session2">
         <td class="time" style="vertical-align: middle">13:00</td>
         <td class="section-head"><b>Session 2:</b> Security Analysis of Modern Computing Architectures</td>
-        <td class="time">TBD</td>
+        <td class="time">Nils Ole Tippenhauer </td>
         <th columnspan=2></th>
     </tr>
 <tr class="section-row">
@@ -219,7 +219,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session4">
         <td class="time" style="vertical-align: middle">10:30</td>
         <td class="section-head"><b>Session 3:</b> Bluetooth & Wi-Fi Security</td>
-        <td class="time">TBD</td>
+        <td class="time">Kasper Rasmussen</td>
         <td></td>
     </tr>
 <tr class="section-row">
@@ -270,7 +270,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session4">
         <td class="time" style="vertical-align: middle">13:00</td>
         <td class="section-head"><b>Session 4:</b> Mobile App Privacy & Security</td>
-        <td class="time">TBD</td>
+        <td class="time">Vincent Lenders</td>
         <td></td>
     </tr>
 <tr class="section-row">
@@ -314,7 +314,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session5">
         <td class="time" style="vertical-align: middle">14:45</td>
         <td class="section-head"><b>Session 5:</b> Session 5: 5G & O-RAN Security</td>
-        <td class="time">TBD</td>
+        <td class="time">Valeria Loscri</td>
         <td></td>
     </tr>
 <tr class="section-row">
@@ -374,7 +374,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session6">
         <td class="time" style="vertical-align: middle">09:00</td>
         <td class="section-head"><b>Session 6:</b> Security for Constrained and Embedded Systems</td>
-        <td class="time">TBD </td>
+        <td class="time">Martin Henze </td>
         <td></td>
     </tr>
 <tr class="section-row">
@@ -423,7 +423,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session7">
         <td class="time" style="vertical-align: middle">13:00</td>
         <td class="section-head"><b>Session 7:</b> RF Fingerprinting & Physical Layer Security</td>
-        <td class="time">TBD</td>
+        <td class="time">Panos Papadimitratos</td>
         <td></td>
         <tr class="section-row">
         <td colspan="3" class="section-content">
@@ -473,7 +473,7 @@ The technical sessions of WiSec 2026 will take place over 3 days, from June 30 t
     <tr class="section" id="session8">
         <td class="time" style="vertical-align: middle">15:00</td>
         <td class="section-head"><b>Session 8:</b> Device Fingerprinting, Tracking & Pairing</td>
-        <td class="time">TBD</td>
+        <td class="time">Cunqing Hua</td>
         <td></td>
     </tr>
 <tr class="section-row">
