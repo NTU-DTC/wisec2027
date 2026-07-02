@@ -16,7 +16,7 @@ enableGitInfo = false
 [params]
 	banner_title = "<b>19<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks</b>"
 	banner_subtitle = "<b>Saarbrücken, Germany<br>June 30 - July 3, 2026</b>"
-	banner_images = [ "images/saarschleife.png", "images/sb2.jpg", "images/hotel.png"]
+	banner_images = [ "images/saarschleife.png", "images/sb2.jpg"]
 
 	banner_width = "1200px"
 	toc_heading = "Table of Contents"
