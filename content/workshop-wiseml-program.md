@@ -60,18 +60,18 @@ WiseML 2026 will take place on July 3 in the Congresshalle of the [Saarbrücken 
         <td><b>Lunch</b></td>
     </tr>
     <tr class="keynote">
-        <td class="time">14:00</td>
+        <td class="time">13:00</td>
         <td>
             <b>Keynote 2: Small Steps, Big Systems: LLMs and the Scale Problem in Wireless Protocol Security</b><br>
             <b>Nils Ole Tippenhauer (CISPA Helmholtz Center for Information Security, Germany)</b>, <span class="speaker-affiliation"></span>
         </td>
     </tr>
     <tr class="dark">
-        <td class="time">15:00</td>
+        <td class="time">14:00</td>
         <td><b>Break (30 min)</b></td>
     </tr>
     <tr class="section" id="session2">
-        <td class="time">15:30</td>
+        <td class="time">14:30</td>
         <td class="section-head"><b>Session 2 (Chair: TBD)</b><br>
                 <b>ML Security, Adversarial Learning, and V2X Systems</b><br>
         </td>
