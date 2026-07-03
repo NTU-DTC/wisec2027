@@ -10,7 +10,9 @@ draft = false
 
 # Program
 
-WiseML 2026 will take place on July 3. All times are shown in Central European Time (CET). The workshop is single-track, and all sessions will be held in the main conference space (Room III) of the {{< link title="Congres Center" target="_blank" href="https://www.ccsaar.de/en/" />}}. Presentation slots are 20 minutes, including Q&A.
+WiseML 2026 will take place on July 3 in the Congresshalle of the [Saarbrücken Congress Center](https://www.ccsaar.de/en/), street address is [Hafenstraße 12, 66111 Saarbrücken](https://maps.app.goo.gl/mrmxaYKAtnGvSzrg8). All times are shown in Central European Summer Time (CEST). The workshop is single-track, and all sessions will be held in Room II (downstairs of the WiSec main conference room) of the {{< link title="Congres Center" target="_blank" href="https://www.ccsaar.de/en/" />}}. Presentation slots are 20 minutes, including Q&A. 
+
+
 
 ## <a id="day1"></a> Friday 3 July
 
