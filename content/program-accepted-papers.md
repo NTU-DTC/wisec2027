@@ -742,6 +742,7 @@ The rapid adoption of AR/VR devices, particularly in the gaming and entertainmen
     author5="Richard Baker #"
     author6="Ivan Martinovic #"
     author7="Srdjan Čapkun #"
+    talk="../talk/kotuliak.pdf"
     acm="https://dl.acm.org/doi/10.1145/3765613.3797449"
 >}}
 
