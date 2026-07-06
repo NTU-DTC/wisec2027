@@ -1,0 +1,110 @@
+{{- $badge_image_url := "images/badges/replicability-badge.png"}}
+{{- $authors := slice "" -}}
+{{- with .Get "author1" -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author2" -}}
+    {{- if isset $.Params "author3" -}}{{- $authors = $authors | append ", " -}}{{- else -}}{{- $authors = $authors | append " and " -}}{{- end -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author3" -}}
+    {{- if isset $.Params "author4" -}}{{- $authors = $authors | append ", " -}}{{- else -}}{{- $authors = $authors | append ", and " -}}{{- end -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author4" -}}
+    {{- if isset $.Params "author5" -}}{{- $authors = $authors | append ", " -}}{{- else -}}{{- $authors = $authors | append ", and " -}}{{- end -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author5" -}}
+    {{- if isset $.Params "author6" -}}{{- $authors = $authors | append ", " -}}{{- else -}}{{- $authors = $authors | append ", and " -}}{{- end -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author6" -}}
+    {{- if isset $.Params "author7" -}}{{- $authors = $authors | append ", " -}}{{- else -}}{{- $authors = $authors | append ", and " -}}{{- end -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author7" -}}
+    {{- if isset $.Params "author8" -}}{{- $authors = $authors | append ", " -}}{{- else -}}{{- $authors = $authors | append ", and " -}}{{- end -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author8" -}}
+    {{- if isset $.Params "author9" -}}{{- $authors = $authors | append ", " -}}{{- else -}}{{- $authors = $authors | append ", and " -}}{{- end -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- with .Get "author9" -}}
+    {{- $authors = $authors | append ", and " -}}
+    {{- $cur := split ( . ) " #" -}}
+    {{- $authors = $authors | append (index $cur 0) "<sup>" (index $cur 1) "</sup>" -}}
+{{- end -}}
+{{- $link :=  replaceRE "[^a-zA-Z0-9_]" "_" (.Get "title") -}}
+<div class="publication-entry" id="{{ $link }}">
+    <span class="title"><a class="publication-link" href="#{{ $link }}"><i class="icon fas fa-link"></i></a>{{ .Get "title" | safeHTML }}</span>
+    {{- if eq (.Get "replicable") "true" -}}
+        {{- if isset .Params "replicability_button_link" }}
+        <a href="{{ .Get "replicability_button_link" | relURL }}"><img style="margin-bottom: 4px" height="25px" src="{{ $badge_image_url | relURL}}"></a>
+        {{- else }}
+        <img style="margin-bottom: 4px" height="25px" src="{{ $badge_image_url | relURL}}">
+        {{- end -}}
+    {{- end -}}
+    {{- with .Get "award" -}}
+    <span class="mx-2 award" title="{{- . -}}"><i class="icon fas fa-trophy"></i></span>
+    {{- end -}}
+    {{- with .Get "recognition" -}}
+    <span class="mx-2 recognition" title="{{- . -}}"><i class="icon fas fa-star"></i></span>
+    {{- end -}}
+    <div class="author">
+        {{ range $authors }}{{ . | safeHTML }}{{ end }}
+    </div>
+    {{- with .Get "affiliation1" }}<div class="affiliation"><sup>1</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation2" }}<div class="affiliation"><sup>2</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation3" }}<div class="affiliation"><sup>3</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation4" }}<div class="affiliation"><sup>4</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation5" }}<div class="affiliation"><sup>5</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation6" }}<div class="affiliation"><sup>6</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation7" }}<div class="affiliation"><sup>7</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation8" }}<div class="affiliation"><sup>8</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- with .Get "affiliation9" }}<div class="affiliation"><sup>9</sup> {{. | safeHTML}}</div>{{ end }}
+    {{- if or (isset .Params "preprint") (isset .Params "teaser") (isset .Params "doi") (isset .Params "acm") (isset .Params "talk")}}
+    <div class="publication-buttons">
+        {{- with .Get "preprint" -}}
+        <a class="btn btn-outline-primary" role="button" href="{{ . | relURL }}"
+           target="_blank" rel="noopener"><i class="icon fas fa-file-alt"></i><span class="label">Preprint</span></a>
+        {{- end -}}
+        {{- with .Get "interview" -}}
+        <a class="btn btn-outline-primary" role="button" href="{{ . | relURL }}"
+           target="_blank" rel="noopener"><i class="icon fab fa-youtube"></i><span class="label">Interview</span></a>
+        {{- end -}}
+        {{- with .Get "video" -}}
+        <a class="btn btn-outline-primary" role="button" href="{{ . | relURL }}"
+           target="_blank" rel="noopener"><i class="icon fas fa-video"></i><span class="label">Video</span></a>
+        {{- end -}}
+        {{- with .Get "talk" -}}
+        <a class="btn btn-outline-primary" role="button" href="{{ . | relURL }}"
+           target="_blank" rel="noopener"><i class="icon fas fa-chalkboard-teacher"></i><span class="label">Talk</span></a>
+        {{- end -}}
+        {{- with .Get "teaser" -}}
+        <a class="btn btn-outline-primary" role="button" href="{{ . | relURL }}"
+           target="_blank" rel="noopener"><i class="icon fab fa-youtube"></i><span class="label">Teaser</span></a>
+        {{- end -}}
+        {{- with .Get "acm" -}}
+        <a class="btn btn-outline-primary" role="button" href="{{ . | relURL }}"
+           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a>
+        {{- end -}}
+        {{- with .Get "doi" -}}
+            {{- $btn_class := "btn btn-outline-primary" -}}
+            {{- if eq ($.Get "doi_state") "disabled" }}{{ $btn_class = "btn btn-outline-secondary disabled" }}{{ end -}}
+        <a class="{{ $btn_class }}" role="button"
+           href="https://doi.org/{{.}}" target="_blank" rel="noopener"
+           title="DOI {{ . }}"><i class="icon fas fa-link"></i><span class="label">DOI</span></a>
+        {{- end -}}
+    </div>
+    {{- end -}}
+</div>
