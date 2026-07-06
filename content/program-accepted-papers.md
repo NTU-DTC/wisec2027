@@ -248,6 +248,7 @@ Pairing of wireless devices, such as smartphones, suffers from a plethora of pra
     author2="Daniele Antonioli #"
     author3="Norrathep Rattanavipanon #"
     award="Runner up for Best Paper"
+    talk="../talks/sacchetti2.pdf"
     acm="https://dl.acm.org/doi/10.1145/3765613.3811677"
 >}}
 
@@ -292,6 +293,7 @@ In Enterprise Wi-Fi networks such as eduroam, clients typically verify the netwo
     author1="Tommaso Sacchetti #"
     author2="Kasper Rasmussen #"
     author3="Daniele Antonioli #"
+    talk="../talks/sacchetti1.pdf"
     acm="https://dl.acm.org/doi/10.1145/3765613.3816113"
 >}}
 
