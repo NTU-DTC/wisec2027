@@ -551,6 +551,7 @@ Hamming Quasi-Cyclic (HQC) is a code-based key-encapsulation mechanism selected 
     author3="Samuel Legouix #"
     author4="Emmanuel Baccelli #"
     author5="Samia Bouzefrane #"
+    talk="../talks/buil.pdf"
     acm="https://dl.acm.org/doi/10.1145/3765613.3811689"
 >}}
 
