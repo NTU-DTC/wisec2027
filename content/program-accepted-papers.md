@@ -10,11 +10,11 @@ hidden = false
            target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access to full Proceedings in the ACM Digital Library</span></a></div></p>
 
 
-<p><div class="publication-entry" id="The_Zen_of_Bluetooth_Security">
-    <span class="title"><a class="publication-link" href="#The_Zen_of_Bluetooth_Security"><i class="icon fas fa-link"></i></a>The Zen of Bluetooth Security</span><div class="author">Daniele Antonioli
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3816019"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="The Zen of Bluetooth Security"
+    author1="Daniele Antonioli #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3816019"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -30,11 +30,12 @@ The Zen of Bluetooth Security (ZOBS) is a collection of Bluetooth security princ
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="OpenSky:_How_a_Security_Project_Became_Global_Infrastructure">
-    <span class="title"><a class="publication-link" href="#OpenSky:_How_a_Security_Project_Became_Global_Infrastructure"><i class="icon fas fa-link"></i></a>OpenSky: How a Security Project Became Global Infrastructure</span><div class="author">Ivan Martinovic and Martin Strohmeier
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797548"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="OpenSky: How a Security Project Became Global Infrastructure"
+    author1="Ivan Martinovic #"
+    author2="Martin Strohmeier #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797548"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -50,11 +51,17 @@ In 2012, the OpenSky Network (https://opensky-network.org) began as an academic 
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="The_Final_Security_Frontier:_Using_Privacy-Preserving_Computation_to_Secure_Satellite_Rendezvous_and_Proximity_Operations">
-    <span class="title"><a class="publication-link" href="#The_Final_Security_Frontier:_Using_Privacy-Preserving_Computation_to_Secure_Satellite_Rendezvous_and_Proximity_Operations"><i class="icon fas fa-link"></i></a>The Final Security Frontier: Using Privacy-Preserving Computation to Secure Satellite Rendezvous and Proximity Operations</span><div class="author">Caroline M. Brandon and Carson Stillman and Joel Hirschmann and Sara Rampazzi and Marina Blanton and Christopher D. Petersen and Kevin R. B. Butler
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797447"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="The Final Security Frontier: Using Privacy-Preserving Computation to Secure Satellite Rendezvous and Proximity Operations"
+    author1="Caroline M. Brandon #"
+    author2="Carson Stillman #"
+    author3="Joel Hirschmann #"
+    author4="Sara Rampazzi #"
+    author5="Marina Blanton #"
+    author6="Christopher D. Petersen #"
+    author7="Kevin R. B. Butler #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797447"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -70,11 +77,13 @@ Space is emerging as a critical domain for secure and privacy-preserving computi
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Denied_by_Border:_Denial-of-Service_Attack_Exploiting_Location_Restrictions_in_Non-Terrestrial_Networks">
-    <span class="title"><a class="publication-link" href="#Denied_by_Border:_Denial-of-Service_Attack_Exploiting_Location_Restrictions_in_Non-Terrestrial_Networks"><i class="icon fas fa-link"></i></a>Denied by Border: Denial-of-Service Attack Exploiting Location Restrictions in Non-Terrestrial Networks</span><div class="author">Kwangmin Kim and Taekkyung Oh and Yongdae Kim
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811676"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Denied by Border: Denial-of-Service Attack Exploiting Location Restrictions in Non-Terrestrial Networks"
+    author1="Kwangmin Kim #"
+    author2="Taekkyung Oh #"
+    author3="Yongdae Kim #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811676"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -90,11 +99,16 @@ Non-Terrestrial Network (NTN) is an emerging technology aimed at extending cellu
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="SideDish:_Low-Cost_Anti-Spoofing_Countermeasure_for_Satellite_Data_Communications">
-    <span class="title"><a class="publication-link" href="#SideDish:_Low-Cost_Anti-Spoofing_Countermeasure_for_Satellite_Data_Communications"><i class="icon fas fa-link"></i></a>SideDish: Low-Cost Anti-Spoofing Countermeasure for Satellite Data Communications</span><div class="author">Edd Salkield and Louis-Emile Ploix and Martin Strohmeier and Sebastian Köhler and Simon Birnbach and Ivan Martinovic
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811684"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="SideDish: Low-Cost Anti-Spoofing Countermeasure for Satellite Data Communications"
+    author1="Edd Salkield #"
+    author2="Louis-Emile Ploix #"
+    author3="Martin Strohmeier #"
+    author4="Sebastian Köhler #"
+    author5="Simon Birnbach #"
+    author6="Ivan Martinovic #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811684"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -110,11 +124,13 @@ Satellite systems are increasingly vulnerable to spoofing attacks at the physica
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="The_Worm_Is_in_the_Root:_On_the_Security_of_IoT_Provisioning_Protocols_and_PMF_in_Wi-Fi_Devices">
-    <span class="title"><a class="publication-link" href="#The_Worm_Is_in_the_Root:_On_the_Security_of_IoT_Provisioning_Protocols_and_PMF_in_Wi-Fi_Devices"><i class="icon fas fa-link"></i></a>The Worm Is in the Root: On the Security of IoT Provisioning Protocols and PMF in Wi-Fi Devices</span><div class="author">Lucien Dikla Ngueleo and Kevin Jiokeng and Valeria Loscri
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3816018"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="The Worm Is in the Root: On the Security of IoT Provisioning Protocols and PMF in Wi-Fi Devices"
+    author1="Lucien Dikla Ngueleo #"
+    author2="Kevin Jiokeng #"
+    author3="Valeria Loscri #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3816018"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -130,11 +146,15 @@ Modern homes are transformed into highly connected environments through the inte
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="The_Cost_of_Zero_Trust:_A_Comparative_Analysis_of_MACsec_and_IPsec_Architectures_for_Secure_Open_Fronthaul">
-    <span class="title"><a class="publication-link" href="#The_Cost_of_Zero_Trust:_A_Comparative_Analysis_of_MACsec_and_IPsec_Architectures_for_Secure_Open_Fronthaul"><i class="icon fas fa-link"></i></a>The Cost of Zero Trust: A Comparative Analysis of MACsec and IPsec Architectures for Secure Open Fronthaul</span><div class="author">Mahesha Viduranga Malmalabaduge and Atif Ahmed and Madhura Adeppady and Aloizio Da Silva
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811686"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="The Cost of Zero Trust: A Comparative Analysis of MACsec and IPsec Architectures for Secure Open Fronthaul"
+    author1="Mahesha Viduranga Malmalabaduge #"
+    author2="Atif Ahmed #"
+    author3="Madhura Adeppady #"
+    author4="Aloizio Da Silva #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811686"
+    talk="../talks/malmalabaduge.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -150,11 +170,15 @@ The Open Fronthaul (OFH) interface requires strict latency (> 100 μs) and preci
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="ArchSnoop:_LLM_Architecture_Snooping_via_Electromagnetic_Side-Channel_on_Edge_Devices">
-    <span class="title"><a class="publication-link" href="#ArchSnoop:_LLM_Architecture_Snooping_via_Electromagnetic_Side-Channel_on_Edge_Devices"><i class="icon fas fa-link"></i></a>ArchSnoop: LLM Architecture Snooping via Electromagnetic Side-Channel on Edge Devices</span><div class="author">Haozhe Weng and Ruochen Zhou and Yubo Qu and Xiaoyu Ji and Wenyuan Xu
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811673"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="ArchSnoop: LLM Architecture Snooping via Electromagnetic Side-Channel on Edge Devices"
+    author1="Haozhe Weng #"
+    author2="Ruochen Zhou #"
+    author3="Yubo Qu #"
+    author4="Xiaoyu Ji #"
+    author5="Wenyuan Xu #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811673"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -170,11 +194,16 @@ The rapid development of large language models (LLMs) has led to their increasin
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Unlocking_Apple's_Private_Cloud_Compute:_An_Analysis_of_Privacy-Preserving_Artificial_Intelligence">
-    <span class="title"><a class="publication-link" href="#Unlocking_Apple's_Private_Cloud_Compute:_An_Analysis_of_Privacy-Preserving_Artificial_Intelligence"><i class="icon fas fa-link"></i></a>Unlocking Apple's Private Cloud Compute: An Analysis of Privacy-Preserving Artificial Intelligence</span><div class="author">Yannik Dittmar and Marvin Jerome Stephan and Thomas Völkl and Matthias Hollick and Jiska Classen
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811691"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Unlocking Apple's Private Cloud Compute: An Analysis of Privacy-Preserving Artificial Intelligence"
+    author1="Yannik Dittmar #"
+    author2="Marvin Jerome Stephan #"
+    author3="Thomas Völkl #"
+    author4="Matthias Hollick #"
+    author5="Jiska Classen #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811691"
+    talk="../talks/dittmar.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -190,11 +219,14 @@ Many existing Artificial Intelligence (AI) solutions on mobile devices rely on a
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Pair-Fi:_Integrity_Code_Protected_Secure_Device_Pairing_via_SDR-Enabled_Wi-Fi_Chips_on_Smartphones">
-    <span class="title"><a class="publication-link" href="#Pair-Fi:_Integrity_Code_Protected_Secure_Device_Pairing_via_SDR-Enabled_Wi-Fi_Chips_on_Smartphones"><i class="icon fas fa-link"></i></a>Pair-Fi: Integrity Code Protected Secure Device Pairing via SDR-Enabled Wi-Fi Chips on Smartphones</span><div class="author">Jakob Link and Florentin Putz and Matthias Hollick
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811679"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Pair-Fi: Integrity Code Protected Secure Device Pairing via SDR-Enabled Wi-Fi Chips on Smartphones"
+    author1="Jakob Link #"
+    author2="Florentin Putz #"
+    author3="Matthias Hollick #"
+    award="Best Paper"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811679"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -210,11 +242,13 @@ Pairing of wireless devices, such as smartphones, suffers from a plethora of pra
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="HardaBLE:_Hardening_BLE_Against_Software_Compromise">
-    <span class="title"><a class="publication-link" href="#HardaBLE:_Hardening_BLE_Against_Software_Compromise"><i class="icon fas fa-link"></i></a>HardaBLE: Hardening BLE Against Software Compromise</span><div class="author">Tommaso Sacchetti and Daniele Antonioli and Norrathep Rattanavipanon
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811677"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="HardaBLE: Hardening BLE Against Software Compromise"
+    author1="Tommaso Sacchetti #"
+    author2="Daniele Antonioli #"
+    author3="Norrathep Rattanavipanon #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811677"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -230,11 +264,13 @@ Bluetooth Low Energy (BLE) is a ubiquitous wireless technology used by billions 
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Secure_Trust_On_First_Use_for_Enterprise_Wi-Fi:_Design_Guidelines_and_Linux_Implementation">
-    <span class="title"><a class="publication-link" href="#Secure_Trust_On_First_Use_for_Enterprise_Wi-Fi:_Design_Guidelines_and_Linux_Implementation"><i class="icon fas fa-link"></i></a>Secure Trust On First Use for Enterprise Wi-Fi: Design Guidelines and Linux Implementation</span><div class="author">Rathan Appana and Mathy Vanhoef
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811682"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Secure Trust On First Use for Enterprise Wi-Fi: Design Guidelines and Linux Implementation"
+    author1="Rathan Appana #"
+    author2="Mathy Vanhoef #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811682"
+    talk="../talks/appana.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -250,11 +286,13 @@ In Enterprise Wi-Fi networks such as eduroam, clients typically verify the netwo
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="BlueBrothers:_Three_New_Protocols_to_Secure_Bluetooth">
-    <span class="title"><a class="publication-link" href="#BlueBrothers:_Three_New_Protocols_to_Secure_Bluetooth"><i class="icon fas fa-link"></i></a>BlueBrothers: Three New Protocols to Secure Bluetooth</span><div class="author">Tommaso Sacchetti and Kasper Rasmussen and Daniele Antonioli
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3816113"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="BlueBrothers: Three New Protocols to Secure Bluetooth"
+    author1="Tommaso Sacchetti #"
+    author2="Kasper Rasmussen #"
+    author3="Daniele Antonioli #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3816113"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -270,11 +308,14 @@ Bluetooth is a pervasive wireless standard that, despite numerous revisions, rem
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Towards_Fast_Detection_of_Suspicious_Bluetooth_Trackers_using_Anomaly_Detection">
-    <span class="title"><a class="publication-link" href="#Towards_Fast_Detection_of_Suspicious_Bluetooth_Trackers_using_Anomaly_Detection"><i class="icon fas fa-link"></i></a>Towards Fast Detection of Suspicious Bluetooth Trackers using Anomaly Detection</span><div class="author">Orobosa Ekhator and Dylan Conklin and Primal Pappachan and Roberto Yus
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811690"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Towards Fast Detection of Suspicious Bluetooth Trackers using Anomaly Detection"
+    author1="Orobosa Ekhator #"
+    author2="Dylan Conklin #"
+    author3="Primal Pappachan #"
+    author4="Roberto Yus #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811690"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -290,11 +331,15 @@ Detecting malicious Bluetooth Low Energy (BLE) trackers remains challenging beca
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Are_Android_Developers_Following_Privacy_Guidelines?_A_Study_on_Logging_Practices_of_Personal_Data">
-    <span class="title"><a class="publication-link" href="#Are_Android_Developers_Following_Privacy_Guidelines?_A_Study_on_Logging_Practices_of_Personal_Data"><i class="icon fas fa-link"></i></a>Are Android Developers Following Privacy Guidelines? A Study on Logging Practices of Personal Data</span><div class="author">Jin Ouyang and Tiash Roy and Daqing Hou and Yuzhe Tang and Xueling Zhang
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797448"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Are Android Developers Following Privacy Guidelines? A Study on Logging Practices of Personal Data"
+    author1="Jin Ouyang #"
+    author2="Tiash Roy #"
+    author3="Daqing Hou #"
+    author4="Yuzhe Tang #"
+    author5="Xueling Zhang #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797448"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -310,11 +355,14 @@ Logging is a common practice in software development, widely used for debugging,
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="iOSModZoo:_A_Large-Scale_Study_of_Third-Party_iOS_App_Markets">
-    <span class="title"><a class="publication-link" href="#iOSModZoo:_A_Large-Scale_Study_of_Third-Party_iOS_App_Markets"><i class="icon fas fa-link"></i></a>iOSModZoo: A Large-Scale Study of Third-Party iOS App Markets</span><div class="author">Luis A. Saavedra and Hridoy S. Dutta and Alastair R. Beresford and Alice Hutchings
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797450"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="iOSModZoo: A Large-Scale Study of Third-Party iOS App Markets"
+    author1="Luis A. Saavedra #"
+    author2="Hridoy S. Dutta #"
+    author3="Alastair R. Beresford #"
+    author4="Alice Hutchings #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797450"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -330,11 +378,15 @@ Sideloading apps in iOS is possible without a jailbroken (rooted) device despite
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="PrivacyAssist:_A_User-Centric_Agent_Framework_for_Detecting_Privacy_Inconsistencies_in_Android_Apps">
-    <span class="title"><a class="publication-link" href="#PrivacyAssist:_A_User-Centric_Agent_Framework_for_Detecting_Privacy_Inconsistencies_in_Android_Apps"><i class="icon fas fa-link"></i></a>PrivacyAssist: A User-Centric Agent Framework for Detecting Privacy Inconsistencies in Android Apps</span><div class="author">Tran Thanh Lam Nguyen and Edoardo Di Tullio and Barbara Carminati and Elena Ferrari
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811680"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="PrivacyAssist: A User-Centric Agent Framework for Detecting Privacy Inconsistencies in Android Apps"
+    author1="Tran Thanh Lam Nguyen #"
+    author2="Edoardo Di Tullio #"
+    author3="Barbara Carminati #"
+    author4="Elena Ferrari #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811680"
+    talk="../talks/nguyen.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -350,11 +402,13 @@ Mobile apps offer significant benefits, but their privacy protections often rema
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="AttestLens:_A_Large-Scale_Measurement_of_Play_Integrity_Adoption_in_Android_Apps">
-    <span class="title"><a class="publication-link" href="#AttestLens:_A_Large-Scale_Measurement_of_Play_Integrity_Adoption_in_Android_Apps"><i class="icon fas fa-link"></i></a>AttestLens: A Large-Scale Measurement of Play Integrity Adoption in Android Apps</span><div class="author">Collin MacDonald and Stephen Herwig
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811674"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="AttestLens: A Large-Scale Measurement of Play Integrity Adoption in Android Apps"
+    author1="Collin MacDonald #"
+    author2="Stephen Herwig #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811674"
+    talk="../talks/macdonald.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -370,11 +424,15 @@ Google's Play Integrity framework has replaced SafetyNet as the primary mechanis
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="ORANClaw:_Shredding_E2_Nodes_in_O-RAN_via_Structure-aware_MiTM_Fuzzing">
-    <span class="title"><a class="publication-link" href="#ORANClaw:_Shredding_E2_Nodes_in_O-RAN_via_Structure-aware_MiTM_Fuzzing"><i class="icon fas fa-link"></i></a>ORANClaw: Shredding E2 Nodes in O-RAN via Structure-aware MiTM Fuzzing</span><div class="author">Geovani Benita and Matheus E. Garbelini and Sudipta Chattopadhyay and Jianying Zhou
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797451"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="ORANClaw: Shredding E2 Nodes in O-RAN via Structure-aware MiTM Fuzzing"
+    author1="Geovani Benita #"
+    author2="Matheus E. Garbelini #"
+    author3="Sudipta Chattopadhyay #"
+    author4="Jianying Zhou #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797451"
+    talk="../talks/maldonado.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -390,11 +448,14 @@ The open radio access network (O-RAN) standard provides a foundational move towa
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Evaluation_of_Security-Induced_Latency_on_5G_RAN_Interfaces_and_User_Plane_Communication">
-    <span class="title"><a class="publication-link" href="#Evaluation_of_Security-Induced_Latency_on_5G_RAN_Interfaces_and_User_Plane_Communication"><i class="icon fas fa-link"></i></a>Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication</span><div class="author">Sotiris Michaelides and Jakub Lapawa and Daniel Eguiguren Chavez and Martin Henze
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797453"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication"
+    author1="Sotiris Michaelides #"
+    author2="Jakub Lapawa #"
+    author3="Daniel Eguiguren Chavez #"
+    author4="Martin Henze #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797453"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -410,11 +471,13 @@ The open radio access network (O-RAN) standard provides a foundational move towa
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="RAN-GUARD:_A_Hybrid_Multi-Model_Approach_for_Early_Detection_of_IP-based_DDoS_Attacks_in_O-RAN">
-    <span class="title"><a class="publication-link" href="#RAN-GUARD:_A_Hybrid_Multi-Model_Approach_for_Early_Detection_of_IP-based_DDoS_Attacks_in_O-RAN"><i class="icon fas fa-link"></i></a>RAN-GUARD: A Hybrid Multi-Model Approach for Early Detection of IP-based DDoS Attacks in O-RAN</span><div class="author">Yousef Khalil and Hyame Assem Alameddine and Chadi Assi
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811681"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="RAN-GUARD: A Hybrid Multi-Model Approach for Early Detection of IP-based DDoS Attacks in O-RAN"
+    author1="Yousef Khalil #"
+    author2="Hyame Assem Alameddine #"
+    author3="Chadi Assi #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811681"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -430,11 +493,17 @@ The ongoing digital transformation towards Sixth Generation (6G) networks is dri
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="StormShield:_Fingerprint-Based_Detection_and_Mitigation_of_RRC_Signaling_Storms_in_O-RAN_5G_RANs">
-    <span class="title"><a class="publication-link" href="#StormShield:_Fingerprint-Based_Detection_and_Mitigation_of_RRC_Signaling_Storms_in_O-RAN_5G_RANs"><i class="icon fas fa-link"></i></a>StormShield: Fingerprint-Based Detection and Mitigation of RRC Signaling Storms in O-RAN 5G RANs</span><div class="author">Noemi Giustini and Andrea Lacava and Leonardo Bonati and Stefano Maxenti and Michele Polese and Tommaso Melodia and Francesca Cuomo
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811685"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="StormShield: Fingerprint-Based Detection and Mitigation of RRC Signaling Storms in O-RAN 5G RANs"
+    author1="Noemi Giustini #"
+    author2="Andrea Lacava #"
+    author3="Leonardo Bonati #"
+    author4="Stefano Maxenti #"
+    author5="Michele Polese #"
+    author6="Tommaso Melodia #"
+    author7="Francesca Cuomo #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811685"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -450,11 +519,14 @@ The ongoing digital transformation towards Sixth Generation (6G) networks is dri
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="MUTUALISM:_Low-Footprint_and_High-Throughput_Software_Implementation_of_HQC_for_Resource-Constrained_Devices">
-    <span class="title"><a class="publication-link" href="#MUTUALISM:_Low-Footprint_and_High-Throughput_Software_Implementation_of_HQC_for_Resource-Constrained_Devices"><i class="icon fas fa-link"></i></a>MUTUALISM: Low-Footprint and High-Throughput Software Implementation of HQC for Resource-Constrained Devices</span><div class="author">Cong Liu and Akira Maruko and Yasushi Takahashi and Naoto Yanai
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811678"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="MUTUALISM: Low-Footprint and High-Throughput Software Implementation of HQC for Resource-Constrained Devices"
+    author1="Cong Liu #"
+    author2="Akira Maruko #"
+    author3="Yasushi Takahashi #"
+    author4="Naoto Yanai #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811678"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -470,11 +542,15 @@ Hamming Quasi-Cyclic (HQC) is a code-based key-encapsulation mechanism selected 
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="TinyContainer:_Container_Runtime_Middleware_Enabling_Multi-tenant_Microcontrollers_with_Built-in_Security">
-    <span class="title"><a class="publication-link" href="#TinyContainer:_Container_Runtime_Middleware_Enabling_Multi-tenant_Microcontrollers_with_Built-in_Security"><i class="icon fas fa-link"></i></a>TinyContainer: Container Runtime Middleware Enabling Multi-tenant Microcontrollers with Built-in Security</span><div class="author">Bastien Buil and Chrystel Gaber and Samuel Legouix and Emmanuel Baccelli and Samia Bouzefrane
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811689"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="TinyContainer: Container Runtime Middleware Enabling Multi-tenant Microcontrollers with Built-in Security"
+    author1="Bastien Buil #"
+    author2="Chrystel Gaber #"
+    author3="Samuel Legouix #"
+    author4="Emmanuel Baccelli #"
+    author5="Samia Bouzefrane #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811689"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -490,11 +566,18 @@ Software containerization technologies for resource-limited devices enable multi
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="V-PASS:_Sybil-Resistant_Pseudonym_Self-Provisioning_for_V2X">
-    <span class="title"><a class="publication-link" href="#V-PASS:_Sybil-Resistant_Pseudonym_Self-Provisioning_for_V2X"><i class="icon fas fa-link"></i></a>V-PASS: Sybil-Resistant Pseudonym Self-Provisioning for V2X</span><div class="author">Hexuan Yu and Md Mohaimin Barat and Shaoyu Li and Md Hasan Shahriar and Yang Xiao and Panagiotis Papadimitratos and Y. Thomas Hou and Wenjing Lou
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811692"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="V-PASS: Sybil-Resistant Pseudonym Self-Provisioning for V2X"
+    author1="Hexuan Yu #"
+    author2="Md Mohaimin Barat #"
+    author3="Shaoyu Li #"
+    author4="Md Hasan Shahriar #"
+    author5="Yang Xiao #"
+    author6="Panagiotis Papadimitratos #"
+    author7="Y. Thomas Hou #"
+    author8="Wenjing Lou #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811692"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -510,11 +593,13 @@ Standardized Vehicle-to-everything (V2X) security architectures, such as the Sec
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Beyond_Static_Signatures:_Statistical_Analysis_of_Radio_Fingerprint_Mutations">
-    <span class="title"><a class="publication-link" href="#Beyond_Static_Signatures:_Statistical_Analysis_of_Radio_Fingerprint_Mutations"><i class="icon fas fa-link"></i></a>Beyond Static Signatures: Statistical Analysis of Radio Fingerprint Mutations</span><div class="author">Gabriele Oligeri and Savio Sciancalepore
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797445"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Beyond Static Signatures: Statistical Analysis of Radio Fingerprint Mutations"
+    author1="Gabriele Oligeri #"
+    author2="Savio Sciancalepore #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797445"
+    talk="../talks/oligeri.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -530,11 +615,14 @@ Radio Frequency Fingerprinting (RFF) has emerged as a promising physical-layer t
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Black-Box_RF_Fingerprint_Spoofing_via_Surrogate-Guided_Generative_Perturbations">
-    <span class="title"><a class="publication-link" href="#Black-Box_RF_Fingerprint_Spoofing_via_Surrogate-Guided_Generative_Perturbations"><i class="icon fas fa-link"></i></a>Black-Box RF Fingerprint Spoofing via Surrogate-Guided Generative Perturbations</span><div class="author">Zhaoyi Lu and Wenchao Xu and Yuhan Zhang and Cunqing Hua
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797452"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Black-Box RF Fingerprint Spoofing via Surrogate-Guided Generative Perturbations"
+    author1="Zhaoyi Lu #"
+    author2="Wenchao Xu #"
+    author3="Yuhan Zhang #"
+    author4="Cunqing Hua #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797452"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -550,11 +638,15 @@ We study the feasibility of black-box radio frequency fingerprint (RFF) spoofing
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="A_Deep_Dive_into_Wormhole_Attacks_in_Underwater_Acoustic_Communication:_From_Theory_to_Practice">
-    <span class="title"><a class="publication-link" href="#A_Deep_Dive_into_Wormhole_Attacks_in_Underwater_Acoustic_Communication:_From_Theory_to_Practice"><i class="icon fas fa-link"></i></a>A Deep Dive into Wormhole Attacks in Underwater Acoustic Communication: From Theory to Practice</span><div class="author">Luisa Lux and Jan Bauer and Eric Wagner and Konrad Wolsing and Ulrike Meyer
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811672"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="A Deep Dive into Wormhole Attacks in Underwater Acoustic Communication: From Theory to Practice"
+    author1="Luisa Lux #"
+    author2="Jan Bauer #"
+    author3="Eric Wagner #"
+    author4="Konrad Wolsing #"
+    author5="Ulrike Meyer #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811672"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -570,11 +662,14 @@ With growing geopolitical interests in the maritime domain, security research of
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Security_Analysis_of_Time-of-Arrival_Estimation_via_Cross-Correlation_under_Narrow-Band_Conditions">
-    <span class="title"><a class="publication-link" href="#Security_Analysis_of_Time-of-Arrival_Estimation_via_Cross-Correlation_under_Narrow-Band_Conditions"><i class="icon fas fa-link"></i></a>Security Analysis of Time-of-Arrival Estimation via Cross-Correlation under Narrow-Band Conditions</span><div class="author">Claudio Anliker and Daniele Coppola and Giovanni Camurati and Srdjan Čapkun
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811683"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Security Analysis of Time-of-Arrival Estimation via Cross-Correlation under Narrow-Band Conditions"
+    author1="Claudio Anliker #"
+    author2="Daniele Coppola #"
+    author3="Giovanni Camurati #"
+    author4="Srdjan Čapkun #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811683"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -590,11 +685,15 @@ Time-of-arrival (ToA) estimation via cross-correlation is an essential building 
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Timestamps_Unchained:_Toward_Secure_Distance-Bounding_on_Commodity_Wi-Fi_Hardware">
-    <span class="title"><a class="publication-link" href="#Timestamps_Unchained:_Toward_Secure_Distance-Bounding_on_Commodity_Wi-Fi_Hardware"><i class="icon fas fa-link"></i></a>Timestamps Unchained: Toward Secure Distance-Bounding on Commodity Wi-Fi Hardware</span><div class="author">Maximilian von Tschirschnitz and Daniel von Kirschten and Viktor Boskovski and Simon Neuenhausen and Jens Grossklags
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3811688"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Timestamps Unchained: Toward Secure Distance-Bounding on Commodity Wi-Fi Hardware"
+    author1="Maximilian von Tschirschnitz #"
+    author2="Daniel von Kirschten #"
+    author3="Viktor Boskovski #"
+    author4="Simon Neuenhausen #"
+    author5="Jens Grossklags #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3811688"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -610,11 +709,13 @@ Distance-bounding protocols provide strong security guarantees, yet their secure
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="TrackAR:_AR/VR_Device_Fingerprinting_and_User-Device_Pairing_Detection_via_Shared_Motion_Sensor_Data">
-    <span class="title"><a class="publication-link" href="#TrackAR:_AR/VR_Device_Fingerprinting_and_User-Device_Pairing_Detection_via_Shared_Motion_Sensor_Data"><i class="icon fas fa-link"></i></a>TrackAR: AR/VR Device Fingerprinting and User-Device Pairing Detection via Shared Motion Sensor Data</span><div class="author">Ahmed Tanvir Mahdad and Md Shahidur Rahaman and Nitesh Saxena
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797446"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="TrackAR: AR/VR Device Fingerprinting and User-Device Pairing Detection via Shared Motion Sensor Data"
+    author1="Ahmed Tanvir Mahdad #"
+    author2="Md Shahidur Rahaman #"
+    author3="Nitesh Saxena #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797446"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -630,11 +731,17 @@ The rapid adoption of AR/VR devices, particularly in the gaming and entertainmen
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="Finding_Phones_Fast:_Low-Latency_and_Scalable_Monitoring_of_Cellular_Communications_in_Sensitive_Areas">
-    <span class="title"><a class="publication-link" href="#Finding_Phones_Fast:_Low-Latency_and_Scalable_Monitoring_of_Cellular_Communications_in_Sensitive_Areas"><i class="icon fas fa-link"></i></a>Finding Phones Fast: Low-Latency and Scalable Monitoring of Cellular Communications in Sensitive Areas</span><div class="author">Martin Kotuliak and Simon Erni and Jakub Polak and Marc Roeschlin and Richard Baker and Ivan Martinovic and Srdjan Čapkun
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797449"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="Finding Phones Fast: Low-Latency and Scalable Monitoring of Cellular Communications in Sensitive Areas"
+    author1="Martin Kotuliak #"
+    author2="Simon Erni #"
+    author3="Jakub Polak #"
+    author4="Marc Roeschlin #"
+    author5="Richard Baker #"
+    author6="Ivan Martinovic #"
+    author7="Srdjan Čapkun #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797449"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -650,11 +757,13 @@ The widespread availability of cellular devices introduces new threat vectors th
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="StateFi:_Effectively_Identifying_Wi-Fi_Devices_through_State_Transitions">
-    <span class="title"><a class="publication-link" href="#StateFi:_Effectively_Identifying_Wi-Fi_Devices_through_State_Transitions"><i class="icon fas fa-link"></i></a>StateFi: Effectively Identifying Wi-Fi Devices through State Transitions</span><div class="author">Abhishek kumar Mishra and Mathieu Cunche
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3797454"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="StateFi: Effectively Identifying Wi-Fi Devices through State Transitions"
+    author1="Abhishek kumar Mishra #"
+    author2="Mathieu Cunche #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3797454"
+    talk="../talks/mishra.pdf"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -670,11 +779,13 @@ Randomized MAC addresses aim to prevent passive device tracking, yet Wi-Fi manag
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="POSTER:_Improving_WLAN_Firmware_Fuzzing_for_Advanced_Analyses_of_Qualcomm_Hexagon_WLAN_Chips">
-    <span class="title"><a class="publication-link" href="#POSTER:_Improving_WLAN_Firmware_Fuzzing_for_Advanced_Analyses_of_Qualcomm_Hexagon_WLAN_Chips"><i class="icon fas fa-link"></i></a>POSTER: Improving WLAN Firmware Fuzzing for Advanced Analyses of Qualcomm Hexagon WLAN Chips</span><div class="author">Daniel Bücheler and Daniel Fraunholz and Hartmut Koenig
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3814571"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="POSTER: Improving WLAN Firmware Fuzzing for Advanced Analyses of Qualcomm Hexagon WLAN Chips"
+    author1="Daniel Bücheler #"
+    author2="Daniel Fraunholz #"
+    author3="Hartmut Koenig #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3814571"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -690,11 +801,13 @@ The security of the entire Wireless LAN (WLAN) stack heavily relies on the secur
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="POSTER:_Link_Secrecy_in_the_Near-Field_With_Antenna_Subset_Modulation">
-    <span class="title"><a class="publication-link" href="#POSTER:_Link_Secrecy_in_the_Near-Field_With_Antenna_Subset_Modulation"><i class="icon fas fa-link"></i></a>POSTER: Link Secrecy in the Near-Field With Antenna Subset Modulation</span><div class="author">Hsiang-Yao Kuo and Chung-Tse Michael Wu and Chia-Yi Yeh
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3814572"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="POSTER: Link Secrecy in the Near-Field With Antenna Subset Modulation"
+    author1="Hsiang-Yao Kuo #"
+    author2="Chung-Tse Michael Wu #"
+    author3="Chia-Yi Yeh #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3814572"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -710,11 +823,15 @@ This paper extends Antenna Subset Modulation (ASM) to the near-field regime. Whi
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="POSTER:_Accountable_Cross-Operator_5G_Charging_via_TEEs">
-    <span class="title"><a class="publication-link" href="#POSTER:_Accountable_Cross-Operator_5G_Charging_via_TEEs"><i class="icon fas fa-link"></i></a>POSTER: Accountable Cross-Operator 5G Charging via TEEs</span><div class="author">Mijin Shin and Wooram Park and Sangwook Bae and CheolJun Park and Seongmin Kim
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3814570"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="POSTER: Accountable Cross-Operator 5G Charging via TEEs"
+    author1="Mijin Shin #"
+    author2="Wooram Park #"
+    author3="Sangwook Bae #"
+    author4="CheolJun Park #"
+    author5="Seongmin Kim #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3814570"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -730,11 +847,15 @@ The 5G core network's control plane operates under a trust-based model. While th
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="DEMO:_Recent_Advancements_in_Detecting_Cellular_Attacks_with_CellGuard">
-    <span class="title"><a class="publication-link" href="#DEMO:_Recent_Advancements_in_Detecting_Cellular_Attacks_with_CellGuard"><i class="icon fas fa-link"></i></a>DEMO: Recent Advancements in Detecting Cellular Attacks with CellGuard</span><div class="author">Swantje Lange and Lukas Arnold and Maximilian Paß and Matthias Hollick and Jiska Classen
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3814569"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="DEMO: Recent Advancements in Detecting Cellular Attacks with CellGuard"
+    author1="Swantje Lange #"
+    author2="Lukas Arnold #"
+    author3="Maximilian Paß #"
+    author4="Matthias Hollick #"
+    author5="Jiska Classen #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3814569"
+>}}
 
 <div class="spoiler " >
 <p>
@@ -750,11 +871,14 @@ A viable remote attack surface of smartphones is the baseband chip, which handle
   </div>
 </div>
 </p>
-<p><div class="publication-entry" id="DEMO:_5G_SA_Roaming_Testbed_for_Post_Quantum_IPsec_Security_Evaluations">
-    <span class="title"><a class="publication-link" href="#DEMO:_5G_SA_Roaming_Testbed_for_Post_Quantum_IPsec_Security_Evaluations"><i class="icon fas fa-link"></i></a>DEMO: 5G SA Roaming Testbed for Post Quantum IPsec Security Evaluations</span><div class="author">Oliver Zeidler and Mert Günes and Sai Anirudh Madhavapeddi and Wolfgang Kellerer
-        </div>
-    <div class="publication-buttons"><a class="btn btn-outline-primary" role="button" href="https://dl.acm.org/doi/10.1145/3765613.3814568"
-           target="_blank" rel="noopener"><i class="iconify" data-icon="cib-acm"></i><span class="label">&nbsp;&nbsp;Open Access</span></a></div></div>
+{{< publication
+    title="DEMO: 5G SA Roaming Testbed for Post Quantum IPsec Security Evaluations"
+    author1="Oliver Zeidler #"
+    author2="Mert Günes #"
+    author3="Sai Anirudh Madhavapeddi #"
+    author4="Wolfgang Kellerer #"
+    acm="https://dl.acm.org/doi/10.1145/3765613.3814568"
+>}}
 
 <div class="spoiler " >
 <p>
