@@ -247,6 +247,7 @@ Pairing of wireless devices, such as smartphones, suffers from a plethora of pra
     author1="Tommaso Sacchetti #"
     author2="Daniele Antonioli #"
     author3="Norrathep Rattanavipanon #"
+    award="Runner up for Best Paper"
     acm="https://dl.acm.org/doi/10.1145/3765613.3811677"
 >}}
 
@@ -454,6 +455,7 @@ The open radio access network (O-RAN) standard provides a foundational move towa
     author2="Jakub Lapawa #"
     author3="Daniel Eguiguren Chavez #"
     author4="Martin Henze #"
+    award="Best Short Paper"
     acm="https://dl.acm.org/doi/10.1145/3765613.3797453"
 >}}
 
