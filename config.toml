@@ -6,7 +6,8 @@ title = "ACM WiSec 2026"
 ## TO DO
 Copyright = "ACM"
 theme = "conference"
-disableKinds = ["taxonomy"]
+disableKinds = ["taxonomy", "term"]
+ignoreErrors = ["error-disable-taxonomy"]
 enableGitInfo = false
 
 
