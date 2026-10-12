@@ -9,7 +9,7 @@ WiSec'26 is supported by DFG, which allows us to offers a limited number of trav
 
 - To apply for a travel grant, please complete and submit [this form](https://forms.gle/4exnbQECyVXwRB4YA).
 
-# Terms & Conditions for WiSec 2026 Travel Grants
+# Terms & Conditions for WiSec 2027 Travel Grants
 Travel grants related to WiSec conference participation can be applied for by registered participants who hold a doctoral degree as per the regulations of the sponsoring party, the German Research Foundation (DFG). Only costs for travel and accommodation are eligible for reimbursement, but not the participation fees raised for the conference attendance.
 As a general rule, the costs for travel and accommodation are reimbursed up to a maximum ceiling amount set by the WiSec conference chairs, and up to the maximum ceiling amounts set by the German federal law for reimbursing travel costs in the public service (“Bundesreisekostengesetz”). If costs exceed these limits, the excess expenses will not be reimbursed.
 

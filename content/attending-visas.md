@@ -16,14 +16,14 @@ ACM WiSec will be held in Saarbrücken, Germany. Visa requirements will depend o
 
 ## Visa Support Letter
 
-You may need to submit a visa support letter as part of your visa application process. ACM is offering visa support letters to all registered attendees, authors, students, and committee members of WiSec 2026. These letters will be provided regardless of whether they present a paper or not, as long as they attend the event.
+You may need to submit a visa support letter as part of your visa application process. ACM is offering visa support letters to all registered attendees, authors, students, and committee members of WiSec 2027. These letters will be provided regardless of whether they present a paper or not, as long as they attend the event.
 
 If you require a visa support letter, please fill in the form at https://supportletters.acm.org with the following details:
 
 ###### You will need:
 - Your name as it appears in your passport
 - Your current postal mailing address
-- The name of the conference you wish to attend (ACM WiSec 2026)
+- The name of the conference you wish to attend (ACM WiSec 2027)
 - If any papers are accepted for the conference, please provide the title, and specify whether you are the sole author or a co-author
 - Your email address
 

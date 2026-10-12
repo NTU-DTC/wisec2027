@@ -3,7 +3,7 @@
 > **Scope**: build configuration (`config.toml`), theme templates (`themes/`), static asset
 > infrastructure (`static/`), server deployment, compliance.
 > **NOT responsible for**: `content/` page content and copy (see [content_work.md](content_work.md)).
-> Background: ACM WiSec 2027 website (Hugo static site, forked from WiSec 2026),
+> Background: ACM WiSec 2027 website (Hugo static site, forked from WiSec 2027),
 > deployment target https://www.ntu.edu.sg/dtc/wisec2027 (sub-path under the NTU main site).
 > Full analysis: [analysis.md](analysis.md).
 
@@ -35,7 +35,7 @@
   `hugo server --baseURL http://localhost:1313/dtc/wisec2027/ --appendPort=false`.
   Recommend executing after content work is mostly done, to avoid blocking Content Engineers' preview;
 - [ ] [config.toml](config.toml) menu structure:
-  - Rename `wiseml2026` menu item to `wiseml2027` + sync URL (**depends on Content Engineer's
+  - Rename `wiseml2027` menu item to `wiseml2027` + sync URL (**depends on Content Engineer's
     WiseML page naming decision in [content_work.md](content_work.md) item E**);
   - Sync domain in the commented-out Proceedings link URLs (verify when enabling);
   - `Program` entry: hide or point to a placeholder page per Content Engineer's decision
@@ -64,7 +64,7 @@ relative paths (drop the leading `/`) or Hugo `relURL`/`relref`. Checklist (from
 - [ ] [content/attending-venue.md:16](content/attending-venue.md:16) `src="/images/ccs_small.png"`
 - [ ] [content/sponsorship.md](content/sponsorship.md) several `src="/images/logos/..."`
 - [ ] [content/best-paper-award.md](content/best-paper-award.md) several `src="/images/best-papers/..."`
-- [ ] [content/program-at-a-glance.md](content/program-at-a-glance.md) several `href="/program-keynote-speakers/"`, `href="/workshop-wiseml-2026-keynote-speaker/"`
+- [ ] [content/program-at-a-glance.md](content/program-at-a-glance.md) several `href="/program-keynote-speakers/"`, `href="/workshop-wiseml-2027-keynote-speaker/"`
 - [ ] [content/sidebar/follow-us.md:15](content/sidebar/follow-us.md:15) `href="/livestreams"`
 - [ ] [content/attending-dcAttractions.md](content/attending-dcAttractions.md) several `src="/images/travel/..."`
 
@@ -87,10 +87,10 @@ Verification after fix: with the new baseURL set, `hugo` build, then crawl all H
     is skipped automatically; also check `layouts/index.html` if present);
   - Or option B: apply for a new GA4 ID for the 2027 site, approved by NTU, and replace;
 - [ ] Delete the old-domain Search Console verification file: `static/google4d8437e7240e126e.html`;
-- [ ] Clear 2026 leftover static content:
-  - `static/proceedings/` (2026 TOC HTML)
-  - `static/talks/` (2026 slide PDFs)
-  - `static/artifacts/` (clear if these are 2026 leftovers)
+- [ ] Clear 2027 leftover static content:
+  - `static/proceedings/` (2027 TOC HTML)
+  - `static/talks/` (2027 slide PDFs)
+  - `static/artifacts/` (clear if these are 2027 leftovers)
 - [ ] Self-host external dependencies (NTU may enforce a CSP):
   [themes/conference/layouts/_default/baseof.html:25](themes/conference/layouts/_default/baseof.html:25)
   references `https://code.iconify.design/1/1.0.7/iconify.min.js`;

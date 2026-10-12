@@ -6,9 +6,9 @@ hidden = false
     weight = 500
 +++
 
-# ACM WiSec 2026 Registration
+# ACM WiSec 2027 Registration
 
-Registration for ACM WiSec 2026 is planned to open in April. All authors and attendees should use the **following link** to register for the main conference and the WiseML workshops. At lest one author of each accepted paper must register by May 5, 2026 (see `Author registration`).
+Registration for ACM WiSec 2027 is planned to open in April. All authors and attendees should use the **following link** to register for the main conference and the WiseML workshops. At lest one author of each accepted paper must register by May 5, 2027 (see `Author registration`).
 
 <a href="https://cvent.me/w2oRrN" target="_blank" style="display:inline-block; background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; font-weight:bold; border-radius:5px;">
   Register Now
@@ -21,7 +21,7 @@ Registration for ACM WiSec 2026 is planned to open in April. All authors and att
     <th style="border: 1px solid black;">Access Type</th>
     <th style="border: 1px solid black;">Membership Status</th>
     <th style="border: 1px solid black;">Early Bird Fee</th>
-    <th style="border: 1px solid black;">Late Fee (after May 7, 2026)</th>
+    <th style="border: 1px solid black;">Late Fee (after May 7, 2027)</th>
   </tr>
   <tr>
     <td rowspan="4" style="border: 1px solid black;"><strong>Full Conference Access</strong></td>
@@ -67,13 +67,13 @@ Registration for ACM WiSec 2026 is planned to open in April. All authors and att
 
 ## Registration Deadlines
 
-- **Author Registration Deadline**: May 5, 2026 (Firm)
-- **Early Registration Deadline**: May 7, 2026
-<!-- - **Late Registration Deadline**: June 29, 2026 -->
+- **Author Registration Deadline**: May 5, 2027 (Firm)
+- **Early Registration Deadline**: May 7, 2027
+<!-- - **Late Registration Deadline**: June 29, 2027 -->
 
 ## Author registration
 
-- At least one author of each accepted submission (including main conference papers, posters, demos, and workshop papers) **MUST** register no later than **May 5, 2026**, in order for their work to be presented at the conference and included in the proceedings.
+- At least one author of each accepted submission (including main conference papers, posters, demos, and workshop papers) **MUST** register no later than **May 5, 2027**, in order for their work to be presented at the conference and included in the proceedings.
 
 - This author registration is valid for **ONE** accepted submission. 
 

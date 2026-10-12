@@ -1,7 +1,7 @@
 baseURL = "https://wisec26.events.cispa.de/"
 
 languageCode = "en-us"
-title = "ACM WiSec 2026"
+title = "ACM WiSec 2027"
 
 ## TO DO
 Copyright = "ACM"
@@ -16,7 +16,7 @@ enableGitInfo = false
 
 [params]
 	banner_title = "<b>19<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks</b>"
-	banner_subtitle = "<b>Saarbrücken, Germany<br>June 30 - July 3, 2026</b>"
+	banner_subtitle = "<b>Saarbrücken, Germany<br>June 30 - July 3, 2027</b>"
 	banner_images = [ "images/saarschleife.png", "images/sb2.jpg"]
 
 	banner_width = "1200px"
@@ -34,7 +34,7 @@ enableGitInfo = false
 #  name = "Proceedings"
 #  identifier = "wisec-proceedings"
 #  parent = "menu_program"
-#  url = "https://wisec26.events.cispa.de/proceedings/acm-wisec-2026-toc.html"
+#  url = "https://wisec26.events.cispa.de/proceedings/acm-wisec-2027-toc.html"
 #  weight = 6000
 
 [[menu.main]]
@@ -43,16 +43,16 @@ enableGitInfo = false
     weight = 3000
 
   [[menu.main]]
-  name = "wiseml2026"
-  title = "WiseML 2026"
+  name = "wiseml2027"
+  title = "WiseML 2027"
   weight = 4000
-  url = "/wiseml2026-workshops/"
+  url = "/wiseml2027-workshops/"
 
 #  [[menu.main]]
 #    name = "Proceedings"
 #    identifier = "wiseml-proceedings"
-#    parent = "wiseml2026"
-#    url = "https://wisec26.events.cispa.de/proceedings/acm-wiseml-2026-toc.html"
+#    parent = "wiseml2027"
+#    url = "https://wisec26.events.cispa.de/proceedings/acm-wiseml-2027-toc.html"
 #    weight = 4000
 
   [[menu.main]]
