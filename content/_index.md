@@ -10,7 +10,7 @@ title = "About ACM WiSec 2027"
 
 # About ACM WiSec 2027
 
-The 19<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2026) will be held from **June 30 to July 3, 2026 in Saarbrücken, Germany**. 
+The 20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2026) will be held from **June 30 to July 3, 2026 in Saarbrücken, Germany**. 
 The conference will be supported by {{< link title="CISPA Helmholtz Center for Information Security" target="_blank" href="https://www.cispa.de/" />}}.
 
 ACM is the world’s largest educational and scientific computing society. ACM WiSec is the leading ACM and SIGSAC conference dedicated to all aspects of security and privacy in wireless and mobile networks and their applications, mobile software platforms, the Internet of Things, cyber-physical systems, usable security and privacy, biometrics, and cryptography. ACM WiSec is a very competitive, high-quality conference, and is very well attended by industry, government, and academia to share information, network, explore ideas, and learn about emerging trends and today’s hottest and most provocative cybersecurity topics. This event is a great opportunity for like-minded colleagues, researchers, students, and industry to attend and learn about the current advances in the security and privacy field.
