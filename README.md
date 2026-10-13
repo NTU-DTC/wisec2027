@@ -52,6 +52,11 @@ Conference website for WiSec 2027, built with Hugo (customized Hugo Conference T
 
 	The generated site goes to the `public/` directory.
 
+# Sandbox 
+  Workflow for this website is configured and enabled. all content changes will trigger update of publish to 
+  https://ntu-dtc.github.io/wisec2027
+  
+
 # Production Build
 
 Run the build script (wipes `public/` and regenerates):
