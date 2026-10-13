@@ -1,5 +1,5 @@
 +++
-title = "About ACM WiSec 2026"
+title = "About ACM WiSec 2027"
 [menu.main]
     title = "Home"
     weight = 1000
@@ -8,7 +8,7 @@ title = "About ACM WiSec 2026"
     weight = 100
 +++
 
-# About ACM WiSec 2026
+# About ACM WiSec 2027
 
 The 19<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2026) will be held from **June 30 to July 3, 2026 in Saarbrücken, Germany**. 
 The conference will be supported by {{< link title="CISPA Helmholtz Center for Information Security" target="_blank" href="https://www.cispa.de/" />}}.
