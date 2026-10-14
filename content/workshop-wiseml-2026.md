@@ -4,16 +4,16 @@ hidden = false
 slug = "wiseml2026-workshops"
 aliases = [ "wiseml", "workshop-wiseml-2026" ]
 [menu.main]
-  parent = "wiseml2026"
+  parent = "wiseml2027"
   name = "Workshops"
   weight = 1000
 +++
 
 
-# ACM Workshop on Wireless Security and Machine Learning (WiseML) 2026
+# ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027
 
 
-The ACM Workshop on Wireless Security and Machine Learning (WiseML) 2026 will be held in conjunction with the ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2026. Accepted, registered, and presented papers will appear in the ACM digital library.  
+The ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 will be held in conjunction with the ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2027. Accepted, registered, and presented papers will appear in the ACM digital library.  
 
 ## Scope and background
 
