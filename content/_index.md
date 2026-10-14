@@ -30,7 +30,7 @@ WiSec'27 is supported by DFG, which allows us to offers a limited number of trav
 
 The call for papers is <a href="call-for-papers/">released</a>, please check the section about the
   <a href="call-for-papers/#important-update-on-acms-new-open-access-publishing-model-for-2026-acm-conferences" style="color:red;">
-    Important update on ACM’s new open access publishing model for 2026 ACM Conferences
+    Important update on ACM’s new open access publishing model for 2027 ACM Conferences
   </a>
 
 ## Past conferences
