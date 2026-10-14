@@ -7,7 +7,7 @@ draft = false
     weight = 5000
 +++
 
-# ACM WiSec 2026 Best Paper Awards
+# ACM WiSec 2027 Best Paper Awards
 
 ## Best Full Paper
 
