@@ -15,8 +15,8 @@ enableGitInfo = false
 	unsafe = true
 
 [params]
-	banner_title = "<b>19<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks</b>"
-	banner_subtitle = "<b>Saarbrücken, Germany<br>June 30 - July 3, 2027</b>"
+	banner_title = "<b>20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks</b>"
+	banner_subtitle = "<b>Singapore<br>June 30 - July 3, 2027</b>"
 	banner_images = [ "images/saarschleife.png", "images/sb2.jpg"]
 
 	banner_width = "1200px"
