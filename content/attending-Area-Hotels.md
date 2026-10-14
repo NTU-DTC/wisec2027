@@ -6,7 +6,7 @@ hidden = false
     weight = 1000
 +++
 
-# Hotels in Saarbrücken
+# Hotels in Singapore
 
 The conference will be held at the [Saarbrücken Congress Center](https://www.ccsaar.de/en/)
 
@@ -52,7 +52,7 @@ Linz can easily be reached by plane or train.
 
 ##### By plane
 
-Traveling to Austria is most easy via the {{< link href="https://www.viennaairport.com/en" target="_blank" >}}Vienna International Airport{{</ link >}} (IATA airport code VIE).
+Traveling to Singapore is most easy via the {{< link href="https://www.viennaairport.com/en" target="_blank" >}}Vienna International Airport{{</ link >}} (IATA airport code VIE).
 From the train station directly at Vienna airport, Linz can be reached via train lines operated by the Austrian railway company
 {{< link href="https://tickets.oebb.at/en/ticket" target="_blank" >}}ÖBB{{</ link >}}. Some airlines (e.g. Austrian Airlines,
 Lufthansa) also offer flights to/from Vienna airport including the train to Linz central station (*"Linz Hauptbahnhof"*,
