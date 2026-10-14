@@ -8,7 +8,7 @@ hidden = false
 
 # Call for Posters and Demos
 
-Ciao! ACM WiSec 2026 solicits Poster and Demo submissions! The poster and demo session will be part of the WiSec conference, held in person **June 30 - July 3, 2026, in Saarbrücken, Germany**. We especially welcome posters and demos related to the WiSec’26 call for paper topics listed at https://wisec26.events.cispa.de/call-for-papers/
+Ciao! ACM WiSec 2027 solicits Poster and Demo submissions! The poster and demo session will be part of the WiSec conference, held in person **June 30 - July 3, 2027, in Singapore**. We especially welcome posters and demos related to the WiSec’27 call for paper topics listed at https://wisec26.events.cispa.de/call-for-papers/
 
 **Posters** allow the submission of ideas and preliminary results on ongoing research. Authors should submit up to a **2-page extended abstract** that provides sufficient technical details so that the TPC can assess the technical merit of the work. The abstract does not need to present a completed project. Still, it should provide enough concrete evidence to support the proposed ideas' potential and validity, emphasizing their relevance to wireless security and privacy.
 
@@ -22,14 +22,14 @@ At least **one author per submission** must be registered (either as a student o
 
 ## Deadlines
 
-Submission: April 7, 2026 (AOE)
-Notification: April 21, 2026
-Camera-ready: May 5, 2026
+Submission: April 7, 2027 (AOE)
+Notification: April 21, 2027
+Camera-ready: May 5, 2027
 
 
 ## Submission
 
-All posters and demos for ACM WiSec 2026 must be submitted electronically via **[https://wisec26-poster.hotcrp.com](https://wisec26-poster.hotcrp.com)**
+All posters and demos for ACM WiSec 2027 must be submitted electronically via **[https://wisec26-poster.hotcrp.com](https://wisec26-poster.hotcrp.com)**
 
 All poster titles must be prefixed with **POSTER:** and all demo titles with **DEMO:**. 
 
