@@ -7,7 +7,7 @@ hidden = false
 +++
 # Call for Artifacts
 
-The organizing committee of the 2026 ACM WiSec Symposium is pleased to offer accepted papers the opportunity to have their research artifacts certified as available, functional, and replicable. This effort continues the effort pioneered in 2017 towards supporting greater reproducibility in mobile and wireless security experimental research. The goal of this process is to increase the impact of mobile and wireless security research, enable dissemination of research results, code and experimental setups, and to enable the research community to build on prior experimental results. We recognize papers whose experimental results were replicated by an independent committee and provide a “badge” in accordance with the terminology defined by ACM.
+The organizing committee of the 2027 ACM WiSec Symposium is pleased to offer accepted papers the opportunity to have their research artifacts certified as available, functional, and replicable. This effort continues the effort pioneered in 2017 towards supporting greater reproducibility in mobile and wireless security experimental research. The goal of this process is to increase the impact of mobile and wireless security research, enable dissemination of research results, code and experimental setups, and to enable the research community to build on prior experimental results. We recognize papers whose experimental results were replicated by an independent committee and provide a “badge” in accordance with the terminology defined by ACM.
 
 Authors of accepted papers can participate in this voluntary process by submitting supporting evidence of their experiments’ replicability, following the instructions below. Authors are encouraged to plan ahead when running their experiments, in order to minimize the overhead of applying for these badges.
 
@@ -16,12 +16,12 @@ Authors of accepted papers can participate in this voluntary process by submitti
 The authors upload a VM containing all the necessary data and code required to replicate the results. At least two reviewers are asked to replicate the results for each submission. Authors ensure that submitted VMs are self-contained to the maximum extent possible to eliminate any future version deprecation and backward compatibility issues. The reviewers clarify any issues directly with the authors (and may request updates to the original VM and code).
 
 The submission deadlines for replicability applications are:
-- First Cycle: February 9, 2026 (23:59 AoE)
-- Second Cycle: April 21, 2026 (23:59 AoE)
+- First Cycle: February 9, 2027 (23:59 AoE)
+- Second Cycle: April 21, 2027 (23:59 AoE)
 
 Authors will be notified if their work was replicated by:
-- First Cycle: March 2, 2026
-- Second Cycle: May 5, 2026
+- First Cycle: March 2, 2027
+- Second Cycle: May 5, 2027
 
 The committee awards up to three badges for the public availability of the artifacts, the functionality of the artifacts, and the reproducibility of the results of the publication.
 
