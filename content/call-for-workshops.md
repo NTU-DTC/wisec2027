@@ -6,9 +6,9 @@ hidden = false
     weight = 2020
 +++
 
-# Call for Workshop Proposals \(To be updated\)
+# Call for Workshop Proposals <span style="color: red;">(To be updated)</span>
 
-The ACM WiSec 2027 conference will be held in-person from June 28th to July 1st, 2027 (TBC), in Singapore. The conference will be hosted by CISPA Helmholtz Center for Information Security. ACM WiSec plans to host several workshops co-located with the main conference. We seek proposals from individuals and teams interested in organizing strong workshops. Ideally, each workshop will be a full day, with 4-5 sessions of 1.5 hours each, or half day. 
+The ACM WiSec 2027 conference will be held in-person from <span style="color: red;">28 June to 1 July, 2027 (TBC)</span>, in Singapore. The conference will be hosted by CISPA Helmholtz Center for Information Security. ACM WiSec plans to host several workshops co-located with the main conference. We seek proposals from individuals and teams interested in organizing strong workshops. Ideally, each workshop will be a full day, with 4-5 sessions of 1.5 hours each, or half day. 
 
 The workshops aim to provide researchers with a forum for presenting early research results and sharing their experiences with the research community. Contributors to the workshops will present novel ideas in a less formal setting, possibly more focused on a specific topic than the regular conference sessions. Whereas we expect that the research presented in the workshops will be less mature than the main conference papers, emphasis will be given to novelty and the potential of a conference submission in the near future.  We will coordinate with workshop chairs to ensure that workshops follow a rigorous peer-review process and compose an exciting program for attendees. 
 
@@ -43,15 +43,15 @@ A proposal to organize a workshop should be submitted to the workshop chairs in 
 
 ## Important Dates
 
-* Workshop Proposal Submission Deadline: TBD
-* Workshop Proposal Acceptance Notification: TBD
-* Workshop Paper Submission Deadline: TBD
-* Workshop Paper Acceptance Notification: TBD
+* Workshop Proposal Submission Deadline: <span style="color: red;">TBD</span>
+* Workshop Proposal Acceptance Notification: <span style="color: red;">TBD</span>
+* Workshop Paper Submission Deadline: <span style="color: red;">TBD</span>
+* Workshop Paper Acceptance Notification: <span style="color: red;">TBD</span>
 
 
 ## Workshop Co-Chairs
 
-* TBD
-* TBD
+* <span style="color: red;">TBD</span>
+* <span style="color: red;">TBD</span>
 
 If any clarifications are needed, feel free to email the workshop chairs at: \(Need email address of co-chairs\).
