@@ -29,7 +29,7 @@ Camera-ready: <span style="color: red;">TBC</span>
 
 ## Submission
 
-All posters and demos for ACM WiSec 2027 must be submitted electronically via **[https://wisec27-poster.hotcrp.com](https://wisec27-poster.hotcrp.com)** <span style="color: red;">Need this new link</span>
+All posters and demos for ACM WiSec 2027 must be submitted electronically via **[https://wisec27-poster.hotcrp.com](https://wisec27-poster.hotcrp.com)** <span style="color: red;">(Need this new link)</span>
 
 All poster titles must be prefixed with **POSTER:** and all demo titles with **DEMO:**. 
 
