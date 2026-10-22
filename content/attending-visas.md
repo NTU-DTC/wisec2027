@@ -12,7 +12,7 @@ hidden = false
 # Visa Information
 
 
-ACM WiSec will be held in Singapore. Visa requirements will depend on your nationality and current residence. To confirm whether you require a visa, please check the visa requirements for your nationality at [[https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements). If a visa is necessary, it is important to apply for it promptly, as visa processing times can be lengthy.
+ACM WiSec will be held in Singapore. Visa requirements will depend on your nationality and current residence. To confirm whether you require a visa, please check the visa requirements for your nationality at [https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements)(https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements). If a visa is necessary, it is important to apply for it promptly, as visa processing times can be lengthy.
 
 ## Visa Support Letter
 
