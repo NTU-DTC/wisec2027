@@ -8,33 +8,33 @@ title = "Sidebar: Important Dates"
 # **Important Dates**
 
 * **First Cycle deadlines**
-  * Submission: November 18, 2025 (AOE)
-  * Notification: January 13, 2026
-  * Camera-ready: February 3, 2026
+  * Submission: <span style="color:red"><TBD/span>
+  * Notification: <span style="color:red"><TBD/span>
+  * Camera-ready: <span style="color:red"><TBD/span>
   * Artifacts:
-    * Submission: February 9, 2026 (AoE)
-    * Notification: March 2, 2026
+    * Submission: <span style="color:red"><TBD/span>
+    * Notification: <span style="color:red"><TBD/span>
 * **Second Cycle deadlines**
-  * Submission: March 3, 2026 (AOE)
-  * Notification: April 14, 2026
-  * Camera-ready: May 5, 2026
+  * Submission: <span style="color:red"><TBD/span>
+  * Notification: <span style="color:red"><TBD/span>
+  * Camera-ready: <span style="color:red"><TBD/span>
   * Artifacts:
-    * Submission: April 21, 2026 (AoE)
-    * Notification: May 5, 2026
+    * Submission: <span style="color:red"><TBD/span>
+    * Notification: <span style="color:red"><TBD/span>
 * **Call for Workshops Proposals**
-  * Submission: February 9, 2026
-  * Notification: February 13, 2026
+  * Submission: <span style="color:red"><TBD/span>
+  * Notification: <span style="color:red"><TBD/span>
 * **Workshop Paper Submission**
-  * Submission: March 15, 2026
-  * Notification: April 9, 2026
+  * Submission: <span style="color:red"><TBD/span>
+  * Notification: <span style="color:red"><TBD/span>
 * **WiseML Paper Submission**
-  * Submission: April 5, 2026
-  * Notification: April 21, 2026
+  * Submission: <span style="color:red"><TBD/span>
+  * Notification: <span style="color:red"><TBD/span>
 * **Posters/Demo deadlines**
-  * Submission: April 7, 2026 (AOE)
-  * Notification: April 21, 2026
-  * Camera-ready: May 5, 2026
+  * Submission: <span style="color:red"><TBD/span>
+  * Notification: <span style="color:red"><TBD/span>
+  * Camera-ready: <span style="color:red"><TBD/span>
 * **Author registration**
-  * May 5, 2026 (Firm)
+  * <span style="color:red"><TBD/span>
 * **Conference dates**
-  * June 30 to July 3, 2026
+  * <span style="color:red"><TBD/span>
