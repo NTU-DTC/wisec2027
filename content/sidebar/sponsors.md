@@ -17,8 +17,8 @@ title = "Sidebar: Sponsors"
 
 
 # Travel Grants Sponsor
-
+<span style="color:red">To be Determined</span>
 
 # Corporate Sponsors
-
+<span style="color:red">To be Determined</span>
 
