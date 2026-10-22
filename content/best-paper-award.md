@@ -11,18 +11,18 @@ draft = false
 
 ## Best Full Paper
 
-To be available...
+<span style="color: red;">To be available...</span>
 
 
 ## Best Full Paper Runner-Up
 
-To be available...
+<span style="color: red;">To be available...</span>
 
 
 
 
 ## Best Short Paper Award
 
-To be available...
+<span style="color: red;">To be available...</span>
 
 
