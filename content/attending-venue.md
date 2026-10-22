@@ -7,6 +7,6 @@ hidden = false
 +++
 
 
-# Conference Venue \(<span style="color:red">To be Updated</span>\)
+# Conference Venue <span style="color:red">(To be Updated)</span>
 
-\(<span style="color:red">To be Determined</span>\)
+<span style="color:red">To be Determined...</span>
