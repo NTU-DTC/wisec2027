@@ -16,12 +16,12 @@ Authors of accepted papers can participate in this voluntary process by submitti
 The authors upload a VM containing all the necessary data and code required to replicate the results. At least two reviewers are asked to replicate the results for each submission. Authors ensure that submitted VMs are self-contained to the maximum extent possible to eliminate any future version deprecation and backward compatibility issues. The reviewers clarify any issues directly with the authors (and may request updates to the original VM and code).
 
 The submission deadlines for replicability applications are:
-- First Cycle: <span color="red">TBD<span>
-- Second Cycle:<span color="red">TBD<span>
+- First Cycle: <span style="color: red">TBD<span>
+- Second Cycle:<span style="color: red">TBD<span>
 
 Authors will be notified if their work was replicated by:
-- First Cycle: <span color="red">TBD<span>
-- Second Cycle: <span color="red">TBD<span>
+- First Cycle: <span style="color: red">TBD<span>
+- Second Cycle: <span style="color: red">TBD<span>
 
 The committee awards up to three badges for the public availability of the artifacts, the functionality of the artifacts, and the reproducibility of the results of the publication.
 
@@ -33,7 +33,7 @@ Due to the narrow time window to validate artifacts, authors are strongly encour
 - For each graph/table, provide a directory (Fig_XXX, Table_XXX) which contains a script that enables the committee to regenerate that object.
 - Include in the home directory a README file, according to the following format template: [*README.txt*](/artifacts/README.txt). You will also be asked to submit this file separately with the application.
 - Provide a link to downloading the VM (e.g. Google Drive or Dropbox)
-- Submit the result to the HotCRP [https://wisec27replicability.hotcrp.com/](https://wisec27replicability.hotcrp.com/) \(Need this new link\)
+- Submit the result to the HotCRP [https://wisec27replicability.hotcrp.com/](https://wisec27replicability.hotcrp.com/) \(<span style="color: red">Need this new link</span>\)
 
 In contrast to last year, we will not automatically make the artifacts available to the public. In order to receive the availablility badge, authors are invited to make their artifacts publicly available and submit the links to them. We encourage to service such as GitHub for code and Zenodo for data.
 
