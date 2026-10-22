@@ -10,8 +10,6 @@ draft = false
 
 # Keynote Speakers \(<span style="color:red">To be Updated</span>\)
 
-### Toward Open, Programmable, Intelligent, and Secure AI-RAN
-
 <br/>
 
 \(<span style="color:red">To be Confirmed</span>\)
