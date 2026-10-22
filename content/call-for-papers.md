@@ -9,7 +9,7 @@ hidden = false
 <div style="background-color:#ffdddd; border-left:4px solid red; padding:10px;">
   <strong>📢</strong>
   <a href="#important-update-on-acms-new-open-access-publishing-model-for-2026-acm-conferences" style="color:red;">
-    Important update on ACM’s new open access publishing model for 2026 ACM Conferences
+    Important update on ACM’s new open access publishing model for 2027 ACM Conferences
   </a>
 </div>
 
@@ -19,7 +19,7 @@ hidden = false
 
 <!-- <b>Submission site:</b> [https://wisec24-spring.hotcrp.com](https://wisec24-spring.hotcrp.com) -->
 
-The 20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2027) will be held in person from June 30 to July 3, 2027, in Singapore.
+The 20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2027) will be held in person from <span style="color: red;"><strong>TBD</strong></span> to <span style="color: red;"><strong>TBD</strong></span>, 2027, in Singapore.
 <!--**First submission deadline** is approaching fast, on **November 21, 2026**.
 Then **Second submission deadline** is, on **March 12, 2027**. -->
 
@@ -55,29 +55,29 @@ Please note: WiSec will have two rounds of submissions. In previous years, WiSec
 <!--<span style="color:red">~~Mar 12, 2025~~</span> March 16, 2025 (AOE)   -->
 
 * **First Cycle deadlines**
-  * Submission: November 18, 2025 (AOE)
-  * Notification: January 13, 2026
-  * Camera-ready: February 3, 2026
+  * Submission: <span style="color: red;"><strong>TBD</strong></span>
+  * Notification: <span style="color: red;"><strong>TBD</strong></span>
+  * Camera-ready: <span style="color: red;"><strong>TBD</strong></span>
 * **Second Cycle deadlines**
-  * Submission: March 3, 2026 (AOE)
-  * Notification: April 14, 2026
-  * Camera-ready: May 5, 2026
+  * Submission: <span style="color: red;"><strong>TBD</strong></span>
+  * Notification: <span style="color: red;"><strong>TBD</strong></span>
+  * Camera-ready: <span style="color: red;"><strong>TBD</strong></span>
 * **Posters/Demo deadlines**
-  * Submission: April 7, 2026 (AOE)
-  * Notification: April 21, 2026
-  * Camera-ready: May 5, 2026
+  * Submission: <span style="color: red;"><strong>TBD</strong></span>
+  * Notification: <span style="color: red;"><strong>TBD</strong></span>
+  * Camera-ready: <span style="color: red;"><strong>TBD</strong></span>
 
 * **Conference dates**
-  * June 30 to July 3, 2026
+  * <span style="color: red;"><strong>TBD</strong></span> to <span style="color: red;"><strong>TBD</strong></span>
 
 
 ## Submission Guidelines
 
-All papers for ACM WiSec 2026 must be submitted electronically through the HotCRP conference management system.
+All papers for ACM WiSec 2027 must be submitted electronically through the HotCRP conference management system.
 
-  *   First Cycle:  https://wisec26.hotcrp.com/
+  *   First Cycle:  <span style="color: red;"><strong>TBD</strong></span>
   <!-- [HotCRP submission site for Cycle 1](TBA) -->
-  *   Second Cycle: https://wisec26-cycle2.hotcrp.com/
+  *   Second Cycle: <span style="color: red;"><strong>TBD</strong></span>
   <!-- [HotCRP submission site for Cycle 2](TBA) -->
 
 Only PDF files will be accepted. Submissions must be prepared using the following ACM proceedings template and must use US Letter page size (215.9 x 279.4 mm / 8.5 x 11 inches):
@@ -97,13 +97,13 @@ In addition to regular papers that present novel contributions in the field, we 
 
 ## Posters and demos 
 
-WiSec will solicit the submission of posters and demos. The instructions to submit posters/demos will be made available on the WiSec 2026 website.
+WiSec will solicit the submission of posters and demos. The instructions to submit posters/demos will be made available on the WiSec 2027 website.
 
 ## Artifact Evaluation label
 
 In the spirit of open science, WiSec encourages authors of accepted papers to make software and data artifacts publicly available to the community.
 
-Such artifacts will be evaluated by the artifact evaluation committee and corresponding papers will be granted an artifact evaluation label. While artifacts are optional, their availability will be positively considered during paper evaluation. Should the authors choose to submit their artifacts for evaluation, they should indicate their decision upon paper submission and follow the artifact submission guidelines in order to submit them upon paper acceptance. The detailed guidelines are available in the [ACM WiSec 2026 Call for Artifacts](/call-for-artifacts).
+Such artifacts will be evaluated by the artifact evaluation committee and corresponding papers will be granted an artifact evaluation label. While artifacts are optional, their availability will be positively considered during paper evaluation. Should the authors choose to submit their artifacts for evaluation, they should indicate their decision upon paper submission and follow the artifact submission guidelines in order to submit them upon paper acceptance. The detailed guidelines are available in the [ACM WiSec 2027 Call for Artifacts](/call-for-artifacts).
 
 ## Double submissions 
 
@@ -113,7 +113,7 @@ It is a policy of the ACM to disallow double/simultaneous submissions, where the
 
 ACM WiSec will host workshops/tutorials that are co-organized with the main conference. Details will be made available on the website.
 
-## Important update on ACMs new open access publishing model for 2026 ACM Conferences
+## Important update on ACMs new open access publishing model for 2027 ACM Conferences
 
 Starting January 1, 2026, ACM will fully transition to Open Access.
 All ACM publications, including those from ACM-sponsored conferences,
