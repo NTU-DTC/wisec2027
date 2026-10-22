@@ -56,13 +56,4 @@ Artifact evaluation volunteers are typically graduate student researchers, but i
 
 ### Artifact Evaluation Committee
 
-Ildi Alla, University of Luxembourg, Luxembourg  (Co-Chair) \
-Eric Wagner, University of Luxembourg, Luxembourg (Co-Chair)\
-Selma Yahia, University of Luxembourg, Luxembourg \
-Sotiris Michaelides, RWTH Aachen University, Germany \
-Aymen Bouferroum, INRIA Lille - Nord Europe, France \
-Lucien Dikla Ngueleo, INRIA Lille - Nord Europe, France \
-Luisa Lux, RWTH Aachen University, Germany \
-David Heye, RWTH Aachen University, Germany \
-Nahom Birhan, Old Dominion University, USA \
-Jin Ouyang, Rochester Institute of Technology, USA 
+To be Determined ...
