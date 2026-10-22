@@ -5,7 +5,7 @@ hidden = false
     weight = 5000
 +++
 
-# Our Sponsors \(<span style="color:red">To be Updated</span>\)
+# Our Sponsors <span style="color:red">(To be Updated)</span>
 
 
 <style>
@@ -62,22 +62,25 @@ hidden = false
 </div>
 
 ## Corporate Sponsors
+<span style="color:red">(Coming soon...)</span>
 
 ### Platinum Sponsor
-
+<span style="color:red">(Coming soon...)</span>
 
 ### Gold Sponsor
-
+<span style="color:red">(Coming soon...)</span>
 
 ### Bronze Sponsor
+<span style="color:red">(Coming soon...)</span>
 
 ## Travel Grants Sponsor
+<span style="color:red">(Coming soon...)</span>
 
 ## Conference Host
-
+<span style="color:red">(Coming soon...)</span>
 
 ## Partners
-
+<span style="color:red">(Coming soon...)</span>
 <script type="text/javascript">
 
 function CreateEmailLink (Username,Domain) {
@@ -98,7 +101,7 @@ If interested in sponsoring the conference, please see the membership levels bel
     <script type="text/javascript">
         CreateGmuEmailLink();
     </script>
-</span> \(<span style="color:red">Need this email group address</span>\) for additional information and next steps.
+</span> <span style="color:red">(Need this email group address)</span> for additional information and next steps.
 
 <style>
   table.sponsor-table {
