@@ -37,7 +37,7 @@ Due to the narrow time window to validate artifacts, authors are strongly encour
 
 In contrast to last year, we will not automatically make the artifacts available to the public. In order to receive the availablility badge, authors are invited to make their artifacts publicly available and submit the links to them. We encourage to service such as GitHub for code and Zenodo for data.
 
-If you have any questions about the submission process or preparing your work for evaluation, feel free to email the artifact evaluation co-chairs at *wisec27-rep-chairs@googlegroups.com* \(Need this new email group address\). We are happy to take these questions and want authors to feel confident that the package they submit is what is needed for a successful evaluation.
+If you have any questions about the submission process or preparing your work for evaluation, feel free to email the artifact evaluation co-chairs at *wisec27-rep-chairs@googlegroups.com* \(<span style="color: red">Need this new email group address</span>\). We are happy to take these questions and want authors to feel confident that the package they submit is what is needed for a successful evaluation.
 
 <!-- ### Volunteer to Review Submissions
 
@@ -56,4 +56,4 @@ Artifact evaluation volunteers are typically graduate student researchers, but i
 
 ### Artifact Evaluation Committee
 
-To be Determined ...
+<span style="color: red">To be Determined ... </span>
