@@ -10,7 +10,7 @@ aliases = [ "wiseml", "workshop-wiseml-2026" ]
 +++
 
 
-# ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 \(<span style="color:red">To be Updated</span>\)
+# ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 <span style="color:red">(To be Updated)</span>\
 
 
 The ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 will be held in conjunction with the ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2027. Accepted, registered, and presented papers will appear in the ACM digital library.  
