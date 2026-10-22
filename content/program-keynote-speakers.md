@@ -8,6 +8,7 @@ draft = false
 +++
 
 # Keynote Speakers
+<span style="color: red;"><strong>Everything below is TBD</strong></span>
 
 ### The Zen of Bluetooth Security
 
