@@ -1,4 +1,4 @@
-+++
+<img width="423" height="202" alt="image" src="https://github.com/user-attachments/assets/74b8361c-2f29-4c05-8631-49c2137dd1eb" />+++
 title = "Detailed Program"
 hidden = false
 draft = false
@@ -9,8 +9,9 @@ draft = false
 
 # Conference Program
 
-The technical sessions of WiSec 2026 will take place over 3 days, from June 30 to July 2. All times are shown in Central European Time (CET). The conference is single-track, and all conference sessions will be held in the main conference space (Saal Ost) of the {{< link title="Congress Center" target="_blank" href="https://www.ccsaar.de/en/" />}}. Presentation slots are 20 minutes for full papers, including Q&A, and 10 minutes for short papers, including Q&A.
+The technical sessions of WiSec 2027 will take place over 3 days, from <span style="color: red;"><strong>TBD</strong></span> to <span style="color: red;"><strong>TBD</strong></span>. All times are shown in Singapore Standard Time (GMT+8). The conference is single-track, and all conference sessions will be held in <span style="color: red;"><strong>TBD</strong></span>. Presentation slots are 20 minutes for full papers, including Q&A, and 10 minutes for short papers, including Q&A.
 
+<span style="color: red;"><strong>Everything below is TBD</strong></span>
 ## <a id="day1"></a> Tuesday 30 June
 
 <table class="program">
