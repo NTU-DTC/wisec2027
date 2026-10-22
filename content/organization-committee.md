@@ -6,7 +6,7 @@ hidden = false
     weight = 1000
 +++
 
-# Organization
+# Organization\(<span style="color:red">To be Updated</span>\)
 
 ## Organizing Committee
 
