@@ -84,8 +84,7 @@ Only PDF files will be accepted. Submissions must be prepared using the followin
 
 - The ACM proceedings template for LaTeX can be found at [Association for Computing Machinery (ACM) - SIG Proceedings Template](https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty).
 - Please look at [ACM Primary Article Template](https://www.acm.org/publications/proceedings-template) for further information on ACM proceedings templates.
-
-
+- All papers for ACM WiSec 2027 must be submitted electronically via [https://wisec27-poster.hotcrp.com] (https://wisec27-poster.hotcrp.com) \(Need this new submission link\)
 
 ## Full, short, and SoK papers 
 
