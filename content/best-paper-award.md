@@ -11,10 +11,7 @@ draft = false
 
 ## Best Full Paper
 
-##### "Pair-Fi: Integrity Code Protected Secure Device Pairing via SDR-Enabled Wi-Fi Chips on Smartphones"
-Jakob Link, Florentin Putz, and Matthias Hollick
-
-<img src="/images/best-papers/Best-Full_Paper-f.jpg" alt="Award Ceremony Best Full Paper Award" width="80%">
+To be available...
 
 
 ## Best Full Paper Runner-Up
