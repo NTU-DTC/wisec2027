@@ -17,11 +17,11 @@ ACM is the world’s largest educational and scientific computing society. ACM W
 
 # Registration
 
-\<span style="color:red">Coming soon...</span>\
+<span style="color:red">Coming soon...</span>
 
 # Travel Grants for *PhD-Holders*
 
-\<span style="color:red">Coming soon...</span>\
+<span style="color:red">Coming soon...</span>
 
 
 # Call for Papers
