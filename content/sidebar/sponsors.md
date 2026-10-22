@@ -18,29 +18,7 @@ title = "Sidebar: Sponsors"
 
 # Travel Grants Sponsor
 
-{{< sponsor-logo width="250" src="images/logos/dfg_logo_schriftzug_blau_foerderung_en.png" url="https://www.dfg.de/en" title="Deutsche Forschungsgemeinschaft" >}}
 
 # Corporate Sponsors
 
-{{< sponsor-logo width="200" height="84" src="images/logos/CISPA.png" url="https://www.cispa.de/" title="CISPA" >}}
-
-<!--
-{{< sponsor-logo width="240" height="84" src="images/logos/corporate/newpush.png"   url="https://www.newpush.com/" title="Newpush" >}}
-
-{{< sponsor-logo width="240" height="84" src="images/logos/corporate/fceda.png"   url="https://fairfaxcountyeda.org/" title="Fairfax County" >}}
-
-# Travel Grants Sponsor
-
-{{< sponsor-logo width="90" height="84" src="images/logos/nsf.png" url="https://www.nsf.gov/" title="National Science Foundation" >}}
-# Partners
-
-<div style="display: flex; align-items: center; gap: 20px;">
-
-{{< sponsor-logo width="60" height="84" src="images/logos/vtech-logo.png" url="https://www.vt.edu/" title="Virginia Tech University" >}}
-{{< sponsor-logo width="110" height="84" src="images/logos/cci-logo.png" url="https://cyberinitiative.org/" title="Commonwealth Cyber Initiative" >}}
-</div>
-
-{{< sponsor-logo width="120" height="84" src="images/logos/corporate/arlington.jpeg"   url="https://www.arlingtoneconomicdevelopment.com/" title="Arlington County" >}}
-
--->
 
