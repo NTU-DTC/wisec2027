@@ -6,15 +6,15 @@ hidden = false
     weight = 500
 +++
 
-# ACM WiSec 2027 Registration
+# ACM WiSec 2027 Registration \(<span style="color:red">To be Updated</span>\)
 
-Registration for ACM WiSec 2027 is planned to open in April. All authors and attendees should use the **following link** to register for the main conference and the WiseML workshops. At lest one author of each accepted paper must register by May 5, 2027 (see `Author registration`).
+Registration for ACM WiSec 2027 is planned to open in April. All authors and attendees should use the **following link** to register for the main conference and the WiseML workshops. At lest one author of each accepted paper must register by May 5, 2027 \(<span style="color:red">To be Determined</span>\) (see `Author registration`). \(<span style="color:red">Need a new link for Register Now button</span>\)
 
 <a href="https://cvent.me/w2oRrN" target="_blank" style="display:inline-block; background-color:#4CAF50; color:white; padding:10px 20px; text-align:center; text-decoration:none; font-weight:bold; border-radius:5px;">
   Register Now
 </a>
 
-## Registration Fees
+## Registration Fees \(<span style="color:red">To be Confirmed</span>\)
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr style="background-color: #ADD8E6;">
@@ -67,13 +67,13 @@ Registration for ACM WiSec 2027 is planned to open in April. All authors and att
 
 ## Registration Deadlines
 
-- **Author Registration Deadline**: May 5, 2027 (Firm)
-- **Early Registration Deadline**: May 7, 2027
+- **Author Registration Deadline**: \(<span style="color:red">To be Determined</span>\)
+- **Early Registration Deadline**: \(<span style="color:red">To be Determined</span>\)
 <!-- - **Late Registration Deadline**: June 29, 2027 -->
 
 ## Author registration
 
-- At least one author of each accepted submission (including main conference papers, posters, demos, and workshop papers) **MUST** register no later than **May 5, 2027**, in order for their work to be presented at the conference and included in the proceedings.
+- At least one author of each accepted submission (including main conference papers, posters, demos, and workshop papers) **MUST** register no later than **May 5, 2027** \(<span style="color:red">To be Determined</span>\), in order for their work to be presented at the conference and included in the proceedings.
 
 - This author registration is valid for **ONE** accepted submission. 
 
@@ -81,17 +81,14 @@ Registration for ACM WiSec 2027 is planned to open in April. All authors and att
 
   - <u>Authors of WiseML workshop papers</u> can register just for the workshop.
 
-- When the author registration requirement is fulfilled by at least one author of the paper, the other authors on that paper are free to register normally as student etc, and at a later point than May 5.
+- When the author registration requirement is fulfilled by at least one author of the paper, the other authors on that paper are free to register normally as student etc, and at a later point than May 5 \(<span style="color:red">To be Determined</span>\).
 
 ## Payment Methods
 
-Registrations are processed through Cvent, and the following forms of payment are accepted:
+Registrations are processed through Cvent \(<span style="color:red">To be Determined</span>\), and the following forms of payment are accepted:
 
-- Credit Cards (Recommended)
-- Checks
-- Wire Transfers
-
+- \(<span style="color:red">To be Determined</span>\)
 
 ---
 
-Feel free to reach out at wisec-reg@acm.org if you need help with your registration or have any other questions.
+Feel free to reach out at wisec-reg@acm.org \(<span style="color:red">To be Confirmed</span>\) if you need help with your registration or have any other questions.
