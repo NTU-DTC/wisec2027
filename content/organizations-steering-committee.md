@@ -5,7 +5,7 @@ title = "Steering Committee"
     weight = 3000
 +++
 
-# Steering Committee
+# Steering Committee \(<span style="color:red">To be Updated</span>\)
 
 {{< person-list >}}
 
