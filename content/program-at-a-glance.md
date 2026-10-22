@@ -9,4 +9,4 @@ draft = false
 
 # Program at a Glance
 
-\(<span style="color:red">To be available...</span>\)
+\<span style="color:red">To be available...</span>\
