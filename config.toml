@@ -16,7 +16,7 @@ enableGitInfo = false
 
 [params]
 	banner_title = "<b>20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks</b>"
-	banner_subtitle = "<b>Singapore<br>TBD, 2027</b>"
+	banner_subtitle = "<b>Singapore<br>28 June - 1 July (TBC)</b>"
 	banner_images = [ "images/saarschleife.png", "images/sb2.jpg"]
 
 	banner_width = "1200px"
