@@ -14,6 +14,5 @@ hidden = false
     title="Accepted Papers
 >}}
 
-
 </div>
 </p>
