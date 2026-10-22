@@ -6,7 +6,7 @@ hidden = false
     weight = 1000
 +++
 
-# Organization <span style="color:red">(To be Updated)</span>
+# Organization  <span style="color:red">(To be Updated by NTU)</span>
 
 ## Organizing Committee
 
