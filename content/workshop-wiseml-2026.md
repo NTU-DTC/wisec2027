@@ -10,7 +10,7 @@ aliases = [ "wiseml", "workshop-wiseml-2026" ]
 +++
 
 
-# ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027
+# ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 \(<span style="color:red">To be Updated</span>\)
 
 
 The ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 will be held in conjunction with the ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec) 2027. Accepted, registered, and presented papers will appear in the ACM digital library.  
@@ -107,76 +107,29 @@ WiseML aims to bring together researchers and practitioners from the ML, securit
 
 
 ## Workshop Chairs
-
+<span style="color:red"> To be Updated </span>
 {{< person-list >}}
-
-{{< person name="Onur Günlü" img="images/persons/onur-gunlu.jpg" >}}
-TU Dortmund, Germany<br>
-{{< /person >}}
-
-{{< person name="Yalin Sagduyu" img="images/persons/yalin-sagduyu.jpg" >}}
-Nexcepta, USA<br>
-Gaithersburg, MD, USA<br>
-{{< /person >}}
-
-{{< person name="Yi Shi" img="images/persons/yi-shi.jpg" >}}
-Virginia Tech<br>
-Arlington, VA, USA<br>
-{{< /person >}}
-
-{{< person name="Junqing Zhang" img="images/persons/junqing-zhang.jpg" >}}
-University of Liverpool, UK<br>
-{{< /person >}}
 
 {{< /person-list >}}
 
 
 
 ## Steering Committee
-
-- Dr. Wenjing Lou, *Virginia Tech, VA, USA*
-- Dr. Sennur Ulukus, *University of Maryland, MD, USA*
-- Dr. K.P. (Suba) Subbalakshmi, *Stevens Institute of Technology, NJ, USA*
-- Dr. Aylin Yener, *The Ohio State University, OH, USA*
+<span style="color:red"> To be Updated </span>
 
 ## Technical Program Committee (TPC) Members:
-
-- Marco Baldi (Universita Politecnica delle Marche, Italy)
-- Eyuphan Bulut (Virginia Commonwealth University, USA)
-- Asaf Cohen (Ben-Gurion University, Israel)
-- M. Cenk Gursoy (Syracuse University, USA)
-- Jacek Kibilda (Virginia Tech, USA)
-- Burak Kantarci (University of Ottawa, Canada)
-- Zhuo Lu (University of South Florida, USA)
-- Javier Parra-Arnau (Universitat Politècnica de Catalunya, Spain)
-- Stjepan Picek (Radboud University, Netherlands)
-- Danda B. Rawat (Howard University, Washington D.C, USA)
-- Heejun Roh (Inha University, Korea)
-- Rafael Schaefer (TU Dresden, Germany)
-- Savio Sciancalepore (Eindhoven University of Technology (TU/e))
-- Guanxiong Shen (Southeast University, China)
-- Sachin Shetty (Old Dominion University, USA)
-- Maciej Skorski (Czech Technical University in Prague, Czech Republic)
-- Ayse Ünsal (EURECOM, France)
-- Ning Wang (University of South Florida, USA)
-- Xuyu Wang (Florida International University, Miami, FL, USA)
-- Youlong Wu (ShanghaiTech, China)
-- Ning Xie (Shenzhen University, China)
-- Feng Ye (University of Wisconsin-Madison, USA)
-- Kai Zeng (George Mason University, USA)
+<span style="color:red"> To be Updated </span>
 
 ## Submission Guidelines
 
-*Submission site*: {{<link title="https://wiseml26.hotcrp.com/" target="_blank" href="https://wiseml26.hotcrp.com/"/>}}.
+*Submission site*: {{<link title="https://wiseml27.hotcrp.com/" target="_blank" href="https://wiseml27.hotcrp.com/"/>}}. \(<span style="color:red"> Need this new Submission Link </span>\)
 
 Workshop papers should be written in English, must be formatted in the standard ACM conference style, and are not to exceed six pages. Accepted papers will appear in the ACM digital library.
  
 Only PDF files will be accepted for the review process. All papers must be thoroughly anonymized for double-blind reviewing.
 
 ## Important Dates:
-<span style="color:red"> *News: Extended deadline* </span>
-
-- Paper Submission Deadline: <del> March 15, 2026</del>  April 5, 2026
-- Acceptance Notification:<del> April 9, 2026</del> April 21, 2026
-- Camera-Ready Paper Submission: <del>April 30, 2026</del> May 5, 2026
-- Workshop Event: July 3, 2026
+- Paper Submission Deadline: <span style="color:red"> TBD </span>
+- Acceptance Notification:<span style="color:red"> TBD </span>
+- Camera-Ready Paper Submission: <span style="color:red"> TBD </span>
+- Workshop Event: <span style="color:red"> TBD </span>
