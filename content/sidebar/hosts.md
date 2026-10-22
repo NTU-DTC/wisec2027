@@ -8,4 +8,4 @@ hidden = false
 
 # Venue
 
-<span style="color:red">TBD</span>
+<span style="color:red">To be Determined</span>
