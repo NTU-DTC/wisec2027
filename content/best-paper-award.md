@@ -16,19 +16,13 @@ To be available...
 
 ## Best Full Paper Runner-Up
 
-##### "HardaBLE: Hardening BLE Against Software Compromise"
+To be available...
 
-Tommaso Sacchetti, Daniele Antonioli, and Norrathep Rattanavipanon
-
-<img src="/images/best-papers/Best-Full-Paper-Runner-Up-f.jpg" alt="Award Ceremony Best Full Paper runner-up" width="80%">
 
 
 
 ## Best Short Paper Award
 
-##### "Evaluation of Security-Induced Latency on 5G RAN Interfaces and User Plane Communication"
+To be available...
 
-Sotiris Michaelides, Jakub Lapawa, Daniel Eguiguren Chavez, and Martin Henze
-
-<img src="/images/best-papers/Best-Short_Paper-f.jpg" alt="Award Ceremony Best Short Paper" width="80%">
 
