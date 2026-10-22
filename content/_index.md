@@ -34,6 +34,7 @@ The call for papers is <a href="call-for-papers/">released</a>, please check the
   </a>
 
 ## Past conferences
+- {{< link title="WiSec 2026" target="_blank" href="https://wisec26.events.cispa.de/" />}} / {{< link title="WiseML 2026" target="_blank" href="https://wisec26.events.cispa.de/wiseml2026-workshops/" />}}
 - {{< link title="WiSec 2025" target="_blank" href="https://wisec2025.gmu.edu/" />}} / {{< link title="WiseML 2025" target="_blank" href="https://wisec2025.gmu.edu/wiseml2025/" />}}
 - {{< link title="WiSec 2024" target="_blank" href="https://wisec2024.kaist.ac.kr/" />}} / {{< link title="WiseML 2024" target="_blank" href="https://wisec2024.kaist.ac.kr/wiseml2024/" />}}
 - {{< link title="WiSec 2023" target="_blank" href="https://wisec2023.surrey.ac.uk/" />}} / {{< link title="WiseML 2023" target="_blank" href="https://wisec2023.surrey.ac.uk/wiseml2023/" />}}
