@@ -1,4 +1,4 @@
-<img width="423" height="202" alt="image" src="https://github.com/user-attachments/assets/74b8361c-2f29-4c05-8631-49c2137dd1eb" />+++
++++
 title = "Detailed Program"
 hidden = false
 draft = false
