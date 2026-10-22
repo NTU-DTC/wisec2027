@@ -6,9 +6,9 @@ hidden = false
     weight = 2012
 +++
 
-# Call for Posters and Demos
+# Call for Posters and Demos (To be updated)
 
-Ciao! ACM WiSec 2027 solicits Poster and Demo submissions! The poster and demo session will be part of the WiSec conference, held in person **June 30 - July 3, 2027, in Singapore**. We especially welcome posters and demos related to the WiSec’27 call for paper topics listed at https://wisec26.events.cispa.de/call-for-papers/
+ACM WiSec 2027 solicits Poster and Demo submissions! The poster and demo session will be part of the WiSec conference, held in person **28 June - 1 July (TBC), in Singapore**. We especially welcome posters and demos related to the WiSec’27 call for paper topics listed at https://wisec26.events.cispa.de/call-for-papers/
 
 **Posters** allow the submission of ideas and preliminary results on ongoing research. Authors should submit up to a **2-page extended abstract** that provides sufficient technical details so that the TPC can assess the technical merit of the work. The abstract does not need to present a completed project. Still, it should provide enough concrete evidence to support the proposed ideas' potential and validity, emphasizing their relevance to wireless security and privacy.
 
@@ -22,14 +22,14 @@ At least **one author per submission** must be registered (either as a student o
 
 ## Deadlines
 
-Submission: April 7, 2027 (AOE)
-Notification: April 21, 2027
-Camera-ready: May 5, 2027
+Submission: TBC
+Notification: TBC
+Camera-ready: TBC
 
 
 ## Submission
 
-All posters and demos for ACM WiSec 2027 must be submitted electronically via **[https://wisec26-poster.hotcrp.com](https://wisec26-poster.hotcrp.com)**
+All posters and demos for ACM WiSec 2027 must be submitted electronically via **[https://wisec27-poster.hotcrp.com](https://wisec27-poster.hotcrp.com)** \(Need this new link\)
 
 All poster titles must be prefixed with **POSTER:** and all demo titles with **DEMO:**. 
 
