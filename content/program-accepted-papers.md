@@ -11,5 +11,5 @@ hidden = false
 
 {{< publication title="Accepted Papers" >}}
 
-<span style="color: red;"><strong>To be available...</strong></span>
+<span style="color: red;">To be available...</span>
 
