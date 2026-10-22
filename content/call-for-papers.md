@@ -13,13 +13,14 @@ hidden = false
   </a>
 </div>
 
-# Call for Papers (To be updated)
+# Call for Papers <span style="color: red;">(To be updated)</span>
+
 
 <!-- <b>Contact email:</b> [wisec24-tpc-chairs@googlegroups.com](mailto:wisec24-tpc-chairs@googlegroups.com) -->
 
 <!-- <b>Submission site:</b> [https://wisec24-spring.hotcrp.com](https://wisec24-spring.hotcrp.com) -->
 
-The 20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2027) will be held in person from **28 June - 1 July (TBC)**, in Singapore.
+The 20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2027) will be held in person from <span style="color: red;">28 June - 1 July, 2027 (TBC)</span>, in Singapore.
 <!--**First submission deadline** is approaching fast, on **November 21, 2026**.
 Then **Second submission deadline** is, on **March 12, 2027**. -->
 
@@ -55,29 +56,29 @@ Please note: WiSec will have two rounds of submissions. In previous years, WiSec
 <!--<span style="color:red">~~Mar 12, 2025~~</span> March 16, 2025 (AOE)   -->
 
 * **First Cycle deadlines**
-  * Submission: <span style="color: red;"><strong>TBD</strong></span>
-  * Notification: <span style="color: red;"><strong>TBD</strong></span>
-  * Camera-ready: <span style="color: red;"><strong>TBD</strong></span>
+  * Submission: <span style="color: red;">TBD</span>
+  * Notification: <span style="color: red;">TBD</span>
+  * Camera-ready: <span style="color: red;">TBD</span>
 * **Second Cycle deadlines**
-  * Submission: <span style="color: red;"><strong>TBD</strong></span>
-  * Notification: <span style="color: red;"><strong>TBD</strong></span>
-  * Camera-ready: <span style="color: red;"><strong>TBD</strong></span>
+  * Submission: <span style="color: red;">TBD</span>
+  * Notification: <span style="color: red;">TBD</span>
+  * Camera-ready: <span style="color: red;">TBD</span>
 * **Posters/Demo deadlines**
-  * Submission: <span style="color: red;"><strong>TBD</strong></span>
-  * Notification: <span style="color: red;"><strong>TBD</strong></span>
-  * Camera-ready: <span style="color: red;"><strong>TBD</strong></span>
+  * Submission: <span style="color: red;">TBD</span>
+  * Notification: <span style="color: red;">TBD</span>
+  * Camera-ready: <span style="color: red;">TBD</span>
 
 * **Conference dates**
-  * 28 June - 1 July (TBC)
+  * <span style="color: red;">28 June - 1 July, 2027 (TBC)</span>
 
 
 ## Submission Guidelines
 
 All papers for ACM WiSec 2027 must be submitted electronically through the HotCRP conference management system.
 
-  *   First Cycle:  <span style="color: red;"><strong>TBD</strong></span>
+  *   First Cycle:  <span style="color: red;">TBD</span>
   <!-- [HotCRP submission site for Cycle 1](TBA) -->
-  *   Second Cycle: <span style="color: red;"><strong>TBD</strong></span>
+  *   Second Cycle: <span style="color: red;">TBD</span>
   <!-- [HotCRP submission site for Cycle 2](TBA) -->
 
 Only PDF files will be accepted. Submissions must be prepared using the following ACM proceedings template and must use US Letter page size (215.9 x 279.4 mm / 8.5 x 11 inches):
