@@ -5,7 +5,7 @@ hidden = false
     weight = 5000
 +++
 
-# Our Sponsors
+# Our Sponsors \(<span style="color:red">To be Updated</span>\)
 
 
 <style>
@@ -54,10 +54,10 @@ hidden = false
 
 <div class="sponsor-static-block">
     <div class="sponsor-card">
-        <img class="sponsor-logo-image" src="/images/logos/logo-acm-square.jpg">
+        <img class="sponsor-logo-image" src="/wisec202/images/logos/logo-acm-square.jpg">
     </div>
     <div class="sponsor-card">
-        <img class="sponsor-logo-image" src="/images/logos/logo-acm-sigsac.png">
+        <img class="sponsor-logo-image" src="/wisec2027/images/logos/logo-acm-sigsac.png">
     </div>
 </div>
 
@@ -68,7 +68,7 @@ hidden = false
 <div class="sponsor-static-block">
  <a href="https://www.cispa.de/" target="_blank" rel="noopener">
     <div class="sponsor-card">
-         <img class="sponsor-logo-image" src="../images/logos/CISPA.png"> 
+         
     </div>
 </a> 
 </div>
@@ -78,7 +78,7 @@ hidden = false
 <!--<div class="sponsor-static-block">
  <a href="https://www.newpush.com/" target="_blank" rel="noopener">
     <div class="sponsor-card">
-         <img class="sponsor-logo-image" src="/images/logos/corporate/newpush.png"> 
+        
     </div>
 </a> 
 </div>-->
@@ -144,7 +144,7 @@ function CreateEmailLink (Username,Domain) {
 }
 
 function CreateGmuEmailLink () {
-	CreateEmailLink('wisec26-general-chairs','googlegroups.com');
+	CreateEmailLink('wisec27-general-chairs','googlegroups.com');
 }
 
 </script>
@@ -155,7 +155,7 @@ If interested in sponsoring the conference, please see the membership levels bel
     <script type="text/javascript">
         CreateGmuEmailLink();
     </script>
-</span> for additional information and next steps.
+</span> \(<span style="color:red">Need this email group address</span>\) for additional information and next steps.
 
 <style>
   table.sponsor-table {
