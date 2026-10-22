@@ -8,5 +8,5 @@ draft = false
 +++
 
 # Keynote Speakers
-<span style="color: red;"><strong>To be available...</strong></span>
+<span style="color: red;">To be available...</span>
 
