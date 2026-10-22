@@ -33,11 +33,11 @@ Due to the narrow time window to validate artifacts, authors are strongly encour
 - For each graph/table, provide a directory (Fig_XXX, Table_XXX) which contains a script that enables the committee to regenerate that object.
 - Include in the home directory a README file, according to the following format template: [*README.txt*](/artifacts/README.txt). You will also be asked to submit this file separately with the application.
 - Provide a link to downloading the VM (e.g. Google Drive or Dropbox)
-- Submit the result to the HotCRP [https://wisec26replicability.hotcrp.com/](https://wisec27replicability.hotcrp.com/) \(Need this new link\)
+- Submit the result to the HotCRP [https://wisec27replicability.hotcrp.com/](https://wisec27replicability.hotcrp.com/) \(Need this new link\)
 
 In contrast to last year, we will not automatically make the artifacts available to the public. In order to receive the availablility badge, authors are invited to make their artifacts publicly available and submit the links to them. We encourage to service such as GitHub for code and Zenodo for data.
 
-If you have any questions about the submission process or preparing your work for evaluation, feel free to email the artifact evaluation co-chairs at *wisec26-rep-chairs@googlegroups.com*. We are happy to take these questions and want authors to feel confident that the package they submit is what is needed for a successful evaluation.
+If you have any questions about the submission process or preparing your work for evaluation, feel free to email the artifact evaluation co-chairs at *wisec27-rep-chairs@googlegroups.com* \(Need this new email group address\). We are happy to take these questions and want authors to feel confident that the package they submit is what is needed for a successful evaluation.
 
 <!-- ### Volunteer to Review Submissions
 
@@ -51,7 +51,7 @@ Artifact evaluation volunteers are typically graduate student researchers, but i
 - Recognition for service on this website (also suitable for mention on a CV/resume – impress your friends!)
 - A look “behind the scenes” of the replication process to help you learn what is expected in a replication package and how to improve your own future replication submissions.
 
-*Please send your application to wisec26-rep-chairs@googlegroups.com*-->
+*Please send your application to wisec27-rep-chairs@googlegroups.com*-->
 
 
 ### Artifact Evaluation Committee
