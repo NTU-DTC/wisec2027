@@ -13,13 +13,13 @@ hidden = false
   </a>
 </div>
 
-# Call for Papers
+# Call for Papers (To be updated)
 
 <!-- <b>Contact email:</b> [wisec24-tpc-chairs@googlegroups.com](mailto:wisec24-tpc-chairs@googlegroups.com) -->
 
 <!-- <b>Submission site:</b> [https://wisec24-spring.hotcrp.com](https://wisec24-spring.hotcrp.com) -->
 
-The 20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2027) will be held in person from <span style="color: red;"><strong>TBD</strong></span> to <span style="color: red;"><strong>TBD</strong></span>, 2027, in Singapore.
+The 20<sup>th</sup> ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec 2027) will be held in person from **28 June - 1 July (TBC)**, in Singapore.
 <!--**First submission deadline** is approaching fast, on **November 21, 2026**.
 Then **Second submission deadline** is, on **March 12, 2027**. -->
 
@@ -68,7 +68,7 @@ Please note: WiSec will have two rounds of submissions. In previous years, WiSec
   * Camera-ready: <span style="color: red;"><strong>TBD</strong></span>
 
 * **Conference dates**
-  * <span style="color: red;"><strong>TBD</strong></span> to <span style="color: red;"><strong>TBD</strong></span>
+  * 28 June - 1 July (TBC)
 
 
 ## Submission Guidelines
