@@ -8,8 +8,8 @@ draft = false
   weight = 3000
 +++
 
-# Keynote Speakers \(<span style="color:red">To be Updated</span>\)
+# Keynote Speakers <span style="color:red">(To be Updated)</span>
 
 <br/>
 
-\(<span style="color:red">To be Confirmed</span>\)
+<span style="color:red">To be Confirmed...</span>
