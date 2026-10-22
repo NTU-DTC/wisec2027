@@ -26,7 +26,7 @@ ACM is the world’s largest educational and scientific computing society. ACM W
 
 # Call for Papers
 
-The call for papers is <a href="call-for-papers/">released</a> <span style="color:red">(Need Link)</span>, please check the section about the
+The call for papers is <a href="call-for-papers/">released</a>, please check the section about the
   <a href="call-for-papers/#important-update-on-acms-new-open-access-publishing-model-for-2026-acm-conferences" style="color:red;">
     Important update on ACM’s new open access publishing model for 2027 ACM Conferences
   </a>
