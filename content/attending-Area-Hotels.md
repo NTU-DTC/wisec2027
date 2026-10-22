@@ -6,27 +6,9 @@ hidden = false
     weight = 1000
 +++
 
-# Hotels in Singapore
+# Hotels in Singapore \(<span style="color:red">To be Updated</span>\)
 
-The conference will be held at the [Saarbrücken Congress Center](https://www.ccsaar.de/en/)
-
-Below is a list of recommended hotels, all extremely close to the
-conference venue. Please note that the owner Revo of the nearby H2
-Hotel is currently filing for insolvency, and we would suggest to use
-our recommended hotels instead.
-
-###### IntercityHotel Saarbrücken
-Hafenstrasse 25, 66111 Saarbrücken<br>
-+49 681 95 070 000<br>
-[Website for reservation](https://hrewards.com/en/intercityhotel-saarbruecken)<br>
-
-###### Premier Inn Saarbrücken
-Faktoreistraße 2, 66111 Saarbrücken<br>
-[Website for Reservation](https://www.premierinn.com/gb/en/hotels/germany/saarland/saarbrucken/saarbrucken-city-centre.html)<br>
-
-###### Mercure Hotel
-Hafenstr. 8, 66111 Saarbrücken, Germany<br>
-[Website for Reservation](https://all.accor.com/hotel/1307/index.en.shtml)<br>
+\(<span style="color:red">To be Determined</span>\)
 
 
 
