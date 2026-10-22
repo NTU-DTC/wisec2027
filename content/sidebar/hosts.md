@@ -8,4 +8,4 @@ hidden = false
 
 # Venue
 
-{{< sponsor-logo width="200" height="84" src="https://www.ccsaar.de/wp-content/uploads/2021/03/logo.svg" url="https://www.ccsaar.de/en/" title="CCS Saarbrücken" >}}
+<span style="color:red">TBD</span>
