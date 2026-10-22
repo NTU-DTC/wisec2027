@@ -54,7 +54,7 @@ hidden = false
 
 <div class="sponsor-static-block">
     <div class="sponsor-card">
-        <img class="sponsor-logo-image" src="/wisec202/images/logos/logo-acm-square.jpg">
+        <img class="sponsor-logo-image" src="/wisec2027/images/logos/logo-acm-square.jpg">
     </div>
     <div class="sponsor-card">
         <img class="sponsor-logo-image" src="/wisec2027/images/logos/logo-acm-sigsac.png">
@@ -65,75 +65,18 @@ hidden = false
 
 ### Platinum Sponsor
 
-<div class="sponsor-static-block">
- <a href="https://www.cispa.de/" target="_blank" rel="noopener">
-    <div class="sponsor-card">
-         
-    </div>
-</a> 
-</div>
 
 ### Gold Sponsor
 
-<!--<div class="sponsor-static-block">
- <a href="https://www.newpush.com/" target="_blank" rel="noopener">
-    <div class="sponsor-card">
-        
-    </div>
-</a> 
-</div>-->
 
 ### Bronze Sponsor
 
-<!--<div class="sponsor-static-block">
- <a href="https://fairfaxcountyeda.org/" target="_blank" rel="noopener">
-    <div class="sponsor-card-wide">
-        <img class="sponsor-logo-image" src="/images/logos/corporate/fceda.png">
-    </div>
-</a> 
-</div>-->
-
 ## Travel Grants Sponsor
-
-<div class="sponsor-static-block">
- <a href="https://www.dfg.de/en" target="_blank" rel="noopener">
-    <div class="sponsor-card">
-        <img class="sponsor-logo-image" src="../images/logos/dfg_logo_schriftzug_blau_foerderung_en.png"> 
-    </div>
-</a>
-</div>
 
 ## Conference Host
 
-<!--<div class="sponsor-static-block">
- <a href="https://www.gmu.edu/" target="_blank" rel="noopener">
-   <div class="sponsor-card-wide">
-        <img class="sponsor-logo-image" src="/images/logos/gmu-logo-large.png"> 
-    </div>
-</a>
-</div>-->
-
 
 ## Partners
-
-<div class="sponsor-static-block">
-
-<!--<div class="sponsor-card">
-        <img class="sponsor-logo-image" src="/images/logos/vtech-logo.png"> 
-    </div>-->
-
-
-<!--<div class="sponsor-card-wide">
-        <img class="sponsor-logo-image" src="/images/logos/cci-logo.png">
-    </div>
-<a href="https://www.arlingtoneconomicdevelopment.com/" target="_blank" rel="noopener">
-    <div class="sponsor-card-wide">
-        <img class="sponsor-logo-image" src="/images/logos/corporate/arlington.jpeg"> 
-    </div>
-</a>
-</div>-->
-
-
 
 <script type="text/javascript">
 
