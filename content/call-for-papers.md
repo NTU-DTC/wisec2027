@@ -8,7 +8,7 @@ hidden = false
 
 <div style="background-color:#ffdddd; border-left:4px solid red; padding:10px;">
   <strong>📢</strong>
-  <a href="#important-update-on-acms-new-open-access-publishing-model-for-2026-acm-conferences" style="color:red;">
+  <a href="#important-update-on-acms-new-open-access-publishing-model-for-2027-acm-conferences" style="color:red;">
     Important update on ACM’s new open access publishing model for 2027 ACM Conferences
   </a>
 </div>
