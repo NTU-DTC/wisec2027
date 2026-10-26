@@ -131,7 +131,7 @@ review the https://www.acm.org/publications/policies/policy-on-discretionary-ope
 Keep in mind that waivers are rare and are granted based on specific
 criteria set by ACM.
 Understanding that this change could present financial challenges, ACM
-has approved a temporary subsidy for 2026 to ease the transition and
+has approved a temporary subsidy for 2027 to ease the transition and
 allow more time for institutions to join ACM Open. The subsidy will
 offer:
 
@@ -142,7 +142,7 @@ This represents a 65% discount, funded directly by ACM. Authors are
 encouraged to help advocate for their institutions to join ACM Open
 during this transition period.
 This temporary subsidized pricing will apply to all conferences
-scheduled for 2026.
+scheduled for 2027.
 
 ## Research Ethics 
 
