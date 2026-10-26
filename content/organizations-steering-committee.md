@@ -5,7 +5,7 @@ title = "Steering Committee"
     weight = 3000
 +++
 
-# Steering Committee <span style="color:red">(To be Confirmed)</span>
+# Steering Committee 
 
 {{< person-list >}}
 
@@ -22,11 +22,6 @@ USA<br>
 {{< person name="René Mayrhofer" img="images/persons/rene-mayrhofer.jpg">}}
 Johannes Kepler University Linz, <br>
 Austria<br>
-{{< /person >}}
-
-{{< person name="Christina Pöpper" img="images/persons/christina-poepper.jpg">}}
-NYU Abu Dhabi,<br>
- UAE<br>
 {{< /person >}}
 
 {{< person name="Yongdae Kim" img="images/persons/yongdae-kim.jpg">}}
