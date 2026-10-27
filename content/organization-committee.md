@@ -12,17 +12,14 @@ hidden = false
 
 ### General Chairs
 
-{{< mailto "wisec26-general-chairs@googlegroups.com" />}}
+{{< mailto "wisec26-general-chairs@googlegroups.com" />}} <span style="color:red">(To be Updated)</span>
 
 {{< person-list >}}
 
-{{< person name="<a href='https://tippenhauer.de/' target='_blank'>Nils Ole Tippenhauer</a>" img="images/persons/nils.png" >}}
-CISPA, Germany<br>
+{{< person name="<a href='https://www.ntu.edu.sg/dtc/our-people' target='_blank'> Kwok-Yan Lam</a>" img="images/persons/Proflam.png" >}}
+Nanyang Technological University, Singapore<br>
 {{< /person >}}
 
-{{< person name="<a href='https://cispa.de/en/people/c01mrsi' target='_blank'>Mridula Singh</a>" img="images/persons/mridula-singh.jpg" >}}
-CISPA, Germany<br>
-{{< /person >}}
 
 {{< /person-list >}}
 
