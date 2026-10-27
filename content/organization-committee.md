@@ -26,16 +26,16 @@ Nanyang Technological University, Singapore<br>
 
 ### Program Chairs
 
-{{< mailto "wisec26-tpc-chairs@googlegroups.com" />}}
+{{< mailto "wisec26-tpc-chairs@googlegroups.com" />}} <span style="color:red">(To be Updated)</span>
 
 {{< person-list >}}
 
-{{< person name="Vincent Lenders" img="images/persons/vincent-lenders.jpg" >}}
-University of Luxembourg<br>
+{{< person name="Levente Buttyán" img="images/persons/ProfLevente.png" >}}
+Budapest University of Technology and Economics, Hungary<br>
 {{< /person >}}
 
-{{< person name="Gerhard Hancke" img="images/persons/gerhard-hancke.jpg" >}}
-City University of Hong Kong<br>
+{{< person name="Xiaofeng Wang" img="images/persons/Wangxiaofeng.png" >}}
+Nanyang Technological University, Singapore<br>
 {{< /person >}}
 
 {{< /person-list >}}
