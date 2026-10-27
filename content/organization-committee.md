@@ -30,11 +30,11 @@ Nanyang Technological University, Singapore<br>
 
 {{< person-list >}}
 
-{{< person name="<a href='buttyan@crysys.hu' target='_blank'> Levente Buttyán" img="images/persons/ProfLevente.png" >}}
+{{< person name="Levente Buttyán" img="images/persons/ProfLevente.png" >}}
 Budapest University of Technology and Economics, Hungary<br>
 {{< /person >}}
 
-{{< person name="<a href='xiaofengwang2025@gmail.com' target='_blank'> Xiaofeng Wang" img="images/persons/Wangxiaofeng.png" >}}
+{{< person name="Xiaofeng Wang" img="images/persons/Wangxiaofeng.png" >}}
 Nanyang Technological University, Singapore<br>
 {{< /person >}}
 
