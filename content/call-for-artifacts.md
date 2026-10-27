@@ -31,7 +31,7 @@ Due to the narrow time window to validate artifacts, authors are strongly encour
 
 - Prepare a VirtualBox VM with all data/tools installed. It is expected that the authors include within this VM raw data (without any pre-processing) and all the scripts used for pre-processing.
 - For each graph/table, provide a directory (Fig_XXX, Table_XXX) which contains a script that enables the committee to regenerate that object.
-- Include in the home directory a README file, according to the following format template: [*README.txt*](/artifacts/README.txt). You will also be asked to submit this file separately with the application.
+- Include in the home directory a README file, according to the following format template: [*README.txt*](https://www.ntu.edu.sg/dtc/wisec2027/artifacts/README.txt). You will also be asked to submit this file separately with the application.
 - Provide a link to downloading the VM (e.g. Google Drive or Dropbox)
 - Submit the result to the HotCRP [https://wisec27replicability.hotcrp.com/](https://wisec27replicability.hotcrp.com/) \(<span style="color: red">Need this new link</span>\)
 
