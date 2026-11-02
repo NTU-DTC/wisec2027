@@ -8,16 +8,16 @@ title = "Sidebar: Important Dates"
 # **Important Dates**
 
 * **First Cycle deadlines**
-  * Submission: <span style="color:red">TBD</span>
-  * Notification: <span style="color:red">TBD</span>
-  * Camera-ready: <span style="color:red">TBD</span>
+  * Submission: November 30, 2026 (AOE)
+  * Notification: January 11, 2027
+  * Camera-ready: February 1, 2027
   * Artifacts:
     * Submission: <span style="color:red">TBD</span>
     * Notification: <span style="color:red">TBD</span>
 * **Second Cycle deadlines**
-  * Submission: <span style="color:red">TBD</span>
-  * Notification: <span style="color:red">TBD</span>
-  * Camera-ready: <span style="color:red">TBD</span>
+  * Submission: February 15, 2027 (AOE)
+  * Notification: April 12, 2027
+  * Camera-ready: May 3, 2027
   * Artifacts:
     * Submission: <span style="color:red">TBD</span>
     * Notification: <span style="color:red">TBD</span>
@@ -31,10 +31,10 @@ title = "Sidebar: Important Dates"
   * Submission: <span style="color:red">TBD</span>
   * Notification: <span style="color:red">TBD</span>
 * **Posters/Demo deadlines**
-  * Submission: <span style="color:red">TBD</span>
-  * Notification: <span style="color:red">TBD</span>
-  * Camera-ready: <span style="color:red">TBD</span>
+  * Submission: April 5, 2027 (AOE)
+  * Notification: April 19 2027
+  * Camera-ready: May 3, 2027
 * **Author registration**
   * <span style="color:red">TBD</span>
 * **Conference dates**
-  * <span style="color:red">TBD</span>
+  * 29 Jun – 2 Jul, 2027
