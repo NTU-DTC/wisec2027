@@ -8,7 +8,7 @@ hidden = false
 
 # Call for Posters and Demos 
 
-ACM WiSec 2027 solicits Poster and Demo submissions! The poster and demo session will be part of the WiSec conference, held in person 29 June - 2 July, 2027 (TBC)</span>, in Singapore. We especially welcome posters and demos related to the WiSec’27 call for paper topics listed at https://www.ntu.edu.sg/dtc/wisec2027/call-for-papers/.
+ACM WiSec 2027 solicits Poster and Demo submissions! The poster and demo session will be part of the WiSec conference, held in person 29 June - 2 July, 2027, in Singapore. We especially welcome posters and demos related to the WiSec’27 call for paper topics listed at https://www.ntu.edu.sg/dtc/wisec2027/call-for-papers/.
 
 **Posters** allow the submission of ideas and preliminary results on ongoing research. Authors should submit up to a **2-page extended abstract** that provides sufficient technical details so that the TPC can assess the technical merit of the work. The abstract does not need to present a completed project. Still, it should provide enough concrete evidence to support the proposed ideas' potential and validity, emphasizing their relevance to wireless security and privacy.
 
@@ -29,7 +29,7 @@ Camera-ready: May 3, 2027
 
 ## Submission
 
-All posters and demos for ACM WiSec 2027 must be submitted electronically via **[https://wisec27-poster.hotcrp.com](https://wisec27-poster.hotcrp.com)** <span style="color: red;">(Need this new link)</span>
+All posters and demos for ACM WiSec 2027 must be submitted electronically via **[https://wisec27-poster.hotcrp.com](https://wisec27-poster.hotcrp.com)** <span style="color: red;">(To be updated)</span>
 
 All poster titles must be prefixed with **POSTER:** and all demo titles with **DEMO:**. 
 
