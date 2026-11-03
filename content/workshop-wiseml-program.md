@@ -1,10 +1,4 @@
-+++
-title = "Programs"
-hidden = true
-[menu.main]
-    parent = "wiseml2027"
-    weight = 5000
-+++
+
 
 # Program <span style="color:red">(To be Updated)</span>
 
