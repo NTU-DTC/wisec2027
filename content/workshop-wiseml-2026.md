@@ -1,3 +1,10 @@
++++
+title = "Workshop"
+hidden = false
+[menu.main]
+    parent = "wiseml2027"
+    weight = 5000
++++
 
 # ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 <span style="color:red">(To be Updated)</span>
 
