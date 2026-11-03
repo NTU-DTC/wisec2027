@@ -1,6 +1,6 @@
 +++
 title = "Workshop"
-hidden = false
+hidden = true
 [menu.main]
     parent = "wiseml2027"
     weight = 5000
