@@ -1,14 +1,3 @@
-+++
-title = "Workshop Overview"
-hidden = false
-slug = "wiseml2027-workshops"
-aliases = [ "wiseml", "workshop-wiseml-2026" ]
-[menu.main]
-  parent = "wiseml2027"
-  name = "Workshops"
-  weight = 1000
-+++
-
 
 # ACM Workshop on Wireless Security and Machine Learning (WiseML) 2027 <span style="color:red">(To be Updated)</span>
 
