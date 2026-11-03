@@ -3,7 +3,7 @@ title = "Keynote Speaker"
 hidden = false
 [menu.main]
     parent = "Attending"
-    weight = 1000
+    weight = 5000
 +++
 
 # Keynote Speakers <span style="color:red">(To be Updated)</span>
