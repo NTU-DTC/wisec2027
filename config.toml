@@ -42,11 +42,11 @@ enableGitInfo = false
     url = "/call-for-papers/"
     weight = 3000
 
-  # [[menu.main]]
-  # name = "wiseml2027"
-  # title = "WiseML 2027"
-  # weight = 4000
-  # url = "/wiseml2027-workshops/"
+[[menu.main]]
+  name = "wiseml2027"
+  title = "WiseML 2027"
+  weight = 4000
+  url = "/wiseml2027-workshops/"
 
 #  [[menu.main]]
 #    name = "Proceedings"
