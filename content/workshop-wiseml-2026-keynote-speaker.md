@@ -1,6 +1,6 @@
 +++
 title = "Keynote Speakers"
-hidden = false
+hidden = true
 [menu.main]
     parent = "wiseml2027"
     weight = 500
