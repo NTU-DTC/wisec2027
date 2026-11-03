@@ -1,12 +1,3 @@
-+++
-title = "Detailed Program"
-hidden = false
-draft = false
-[menu.main]
-  parent = "wiseml2027"
-  name = "workshop-wiseml-2027-program"
-  weight = 2000
-+++
 
 # Program <span style="color:red">(To be Updated)</span>
 
