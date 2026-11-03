@@ -1,6 +1,6 @@
 +++
 title = "Keynote Speaker"
-hidden = false
+hidden = true
 [menu.main]
     parent = "Attending"
     weight = 5000
