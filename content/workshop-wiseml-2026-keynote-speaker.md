@@ -3,7 +3,7 @@ title = "Keynote Speakers"
 hidden = false
 [menu.main]
     parent = "wiseml2027"
-    weight = 5000
+    weight = 500
 +++
 
 # Keynote Speakers <span style="color:red">(To be Updated)</span>
